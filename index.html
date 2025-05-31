@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang chủ - Hệ thống thi trắc nghiệm</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1>HỆ THỐNG THI TRẮC NGHIỆM</h1>
+    <div style="text-align:center; margin-top:60px;">
+        <a href="add-question.html"><button class="main-btn">Thêm câu hỏi</button></a>
+        <button class="main-btn" id="start-exam-btn">Làm bài thi</button>
+    </div>
+
+    <div id="exam-modal" style="display:none; position:fixed; left:0; top:0; width:100vw; height:100vh; background:rgba(0,0,0,0.3); z-index:1000; align-items:center; justify-content:center;">
+        <div style="background:#fff; padding:24px 32px; border-radius:8px; box-shadow:0 2px 8px #0002; text-align:center; min-width:260px;">
+            <h3>Chọn số câu hỏi và thời gian làm bài</h3>
+            <div style="margin-bottom:12px;">
+                <label>Số câu hỏi: <input type="number" id="question-count" min="1" style="width:60px;"></label>
+            </div>
+            <div style="margin-bottom:20px;">
+                <label>Thời gian (phút): <input type="number" id="exam-time" min="1" style="width:60px;"></label>
+            </div>
+            <button id="exam-ok-btn" class="main-btn">Bắt đầu</button>
+            <button id="exam-cancel-btn" class="main-btn" style="background:#f44336; color:#fff;">Hủy</button>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>

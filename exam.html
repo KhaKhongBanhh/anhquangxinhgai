@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="exam.css">
+</head>
+<body>
+    <h1>BÀI KIỂM TRA </h1>
+    <div id="countdown-timer" style="font-size:20px; color:#d32f2f; font-weight:bold; margin-bottom:12px; text-align:center;"></div>
+    <hr>
+    <div id="questions-container"></div>
+    <footer>
+        <h3>Trạng thái các câu hỏi:</h3>
+        <div id="question-buttons">
+            <button class="question-btn" id="btn1">Câu 1</button>
+            <button class="question-btn" id="btn2">Câu 2</button>
+            <button class="question-btn" id="btn3">Câu 3</button>
+        </div>
+        <div style="margin-top:16px;">
+            <div id="progress-bar-bg" style="width: 100%; height: 20px; background: #eee; border-radius: 10px; overflow: hidden; position: relative;">
+                <div id="progress-bar" style="height: 100%; width: 0; background: #2196f3; transition: width 0.3s;"></div>
+                <span id="progress-text" style="
+                    position: absolute;
+                    left: 50%;
+                    top: 50%;
+                    transform: translate(-50%, -50%);
+                    font-weight: bold;
+                    color: #222;
+                    z-index: 1;
+                    pointer-events: none;
+                "></span>
+            </div>
+        </div>
+        <!-- Nút nộp bài -->
+        <div style="margin-top: 20px; text-align: center;">
+            <button id="submit-btn" style="padding: 10px 32px; font-size: 16px; background: #2196f3; color: #fff; border: none; border-radius: 6px; cursor: pointer;">Nộp bài</button>
+        </div>
+        <!-- Hộp xác nhận nộp bài -->
+        <div id="confirm-modal" style="display:none; position:fixed; left:0; top:0; width:100vw; height:100vh; background:rgba(0,0,0,0.3); z-index:1000; align-items:center; justify-content:center;">
+            <div style="background:#fff; padding:24px 32px; border-radius:8px; box-shadow:0 2px 8px #0002; text-align:center; min-width:260px;">
+                <p style="font-size:18px; margin-bottom:20px;">Bạn chắc chắn muốn nộp bài?</p>
+                <button id="confirm-yes" style="padding:8px 24px; margin-right:16px; background:#4caf50; color:#fff; border:none; border-radius:4px; font-size:16px; cursor:pointer;">Có</button>
+                <button id="confirm-no" style="padding:8px 24px; background:#f44336; color:#fff; border:none; border-radius:4px; font-size:16px; cursor:pointer;">Hủy</button>
+            </div>
+        </div>
+    </footer>
+    <script src="exam.js"></script>
+</body>
+</html>

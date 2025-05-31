@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Các câu sai</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 24px; }
+        .wrong-question { margin-bottom: 32px; border-bottom: 1px solid #ccc; padding-bottom: 16px; }
+        .correct { color: #388e3c; font-weight: bold; }
+        .your-answer { color: #d32f2f; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>Các câu bạn làm sai</h2>
+    <div id="wrong-list"></div>
+    <script>
+        const wrongList = JSON.parse(localStorage.getItem('wrong_questions') || '[]');
+        const container = document.getElementById('wrong-list');
+        if (wrongList.length === 0) {
+            container.innerHTML = "<p>Bạn không làm sai câu nào!</p>";
+        } else {
+            container.innerHTML = wrongList.map((item, idx) => {
+                const options = ['A', 'B', 'C', 'D'];
+                return `
+                    <div class="wrong-question">
+                        <p><strong>Câu ${item.index}:</strong> ${item.question}</p>
+                        <ul>
+                            ${item.answers.map(ans => {
+                                let style = '';
+                                if (ans.option === item.correct) style = 'class="correct"';
+                                if (ans.option === item.selected) style = 'class="your-answer"';
+                                return `<li ${style}>${ans.option}. ${ans.text}</li>`;
+                            }).join('')}
+                        </ul>
+                        <p><span class="correct">Đáp án đúng: ${item.correct}</span>
+                        ${item.selected ? `<span class="your-answer"> | Bạn chọn: ${item.selected}</span>` : '<span class="your-answer"> | Bạn chưa chọn đáp án</span>'}
+                        </p>
+                    </div>
+                `;
+            }).join('');
+        }
+    </script>
+</body>
+</html>

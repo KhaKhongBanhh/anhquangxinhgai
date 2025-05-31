@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 80px;
+}
+.question-btn {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 8px 16px;
+    margin: 4px;
+    cursor: pointer;
+}
+.answered {
+    background-color: #4caf50;
+    color: white;
+}
+.flagged {
+    background-color: #ffc107;
+    color: black;
+}
+.flag-link {
+    color: #000;
+    cursor: pointer;
+    margin-left: 8px;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    user-select: none;
+    text-decoration: underline;
+}
+.flag-icon {
+    color: #ff9800;
+    font-size: 18px;
+    margin-right: 4px;
+    text-decoration: none;
+}
+.main-btn {
+    padding: 16px 40px;
+    font-size: 20px;
+    margin: 24px;
+    border-radius: 8px;
+    border: none;
+    background: #2196f3;
+    color: #fff;
+    cursor: pointer;
+}
+.main-btn:hover {
+    background: #1769aa;
+}
