@@ -10,6 +10,7 @@
     <div style="text-align:center; margin-top:60px;">
         <a href="add-question.html"><button class="main-btn">Thêm câu hỏi</button></a>
         <button class="main-btn" id="start-exam-btn">Làm bài thi</button>
+        <button class="main-btn" id="start-practice-btn" style="background:#4CAF50;">Ôn tập</button>
     </div>
 
     <div id="exam-modal" style="display:none; position:fixed; left:0; top:0; width:100vw; height:100vh; background:rgba(0,0,0,0.3); z-index:1000; align-items:center; justify-content:center;">
@@ -23,6 +24,24 @@
             </div>
             <button id="exam-ok-btn" class="main-btn">Bắt đầu</button>
             <button id="exam-cancel-btn" class="main-btn" style="background:#f44336; color:#fff;">Hủy</button>
+        </div>
+    </div>
+
+    <!-- Modal ôn tập -->
+    <div id="practice-modal" style="display:none; position:fixed; left:0; top:0; width:100vw; height:100vh; background:rgba(0,0,0,0.3); z-index:1000; align-items:center; justify-content:center;">
+        <div style="background:#fff; padding:24px 32px; border-radius:8px; box-shadow:0 2px 8px #0002; text-align:center; min-width:300px;">
+            <h3>Chọn tùy chọn ôn tập</h3>
+            <div style="margin-bottom:12px;">
+                <label>Số câu hỏi: <input type="number" id="practice-question-count" min="1" style="width:60px;"></label>
+            </div>
+            <div style="margin-bottom:12px;">
+                <label>Thời gian (phút, 0 = không giới hạn): <input type="number" id="practice-time" min="0" value="0" style="width:60px;"></label>
+            </div>
+            <div style="margin-bottom:20px;">
+                <label><input type="checkbox" id="practice-shuffle"> Đảo đáp án</label>
+            </div>
+            <button id="practice-ok-btn" class="main-btn" style="background:#4CAF50;">Bắt đầu</button>
+            <button id="practice-cancel-btn" class="main-btn" style="background:#f44336; color:#fff;">Hủy</button>
         </div>
     </div>
 

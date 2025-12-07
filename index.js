@@ -35,3 +35,44 @@ document.getElementById('start-exam-btn').onclick = function() {
             };
         });
 };
+
+// Xử lý nút ôn tập
+document.getElementById('start-practice-btn').onclick = function() {
+    fetch('questions.json')
+        .then(res => res.json())
+        .then(questions => {
+            const modal = document.getElementById('practice-modal');
+            const countInput = document.getElementById('practice-question-count');
+            const timeInput = document.getElementById('practice-time');
+            const shuffleCheck = document.getElementById('practice-shuffle');
+            
+            modal.style.display = 'flex';
+            countInput.value = questions.length;
+            countInput.max = questions.length;
+
+            document.getElementById('practice-ok-btn').onclick = function() {
+                let n = parseInt(countInput.value);
+                let t = parseInt(timeInput.value);
+                let shuffle = shuffleCheck.checked;
+                
+                if (isNaN(n) || n < 1 || n > questions.length) {
+                    alert('Số lượng câu hỏi không hợp lệ!');
+                    return;
+                }
+                if (isNaN(t) || t < 0) {
+                    alert('Thời gian không hợp lệ!');
+                    return;
+                }
+                
+                localStorage.setItem('practice_question_count', n);
+                localStorage.setItem('practice_time', t);
+                localStorage.setItem('practice_shuffle', shuffle);
+                modal.style.display = 'none';
+                window.location.href = 'practice.html';
+            };
+
+            document.getElementById('practice-cancel-btn').onclick = function() {
+                modal.style.display = 'none';
+            };
+        });
+};

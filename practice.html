@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Ôn tập</title>
+    <link rel="stylesheet" href="exam.css">
+</head>
+<body>
+    <div class="exam-container">
+        <div class="exam-header">
+            <h2>ÔN TẬP</h2>
+            <div id="timer-display" style="font-size:18px; font-weight:bold;"></div>
+            <div id="progress-display" style="font-size:16px; margin-top:8px;"></div>
+        </div>
+
+        <div id="question-container" class="question-box">
+            <!-- Câu hỏi sẽ được render ở đây -->
+        </div>
+
+        <div id="feedback-container" style="display:none; padding:16px; margin:16px 0; border-radius:8px; font-weight:bold;">
+            <!-- Phản hồi đúng/sai -->
+        </div>
+
+        <div style="text-align:center; margin-top:20px;">
+            <button id="restart-btn" class="submit-btn" style="background:#FF9800; margin-right:12px;">Làm lại từ đầu</button>
+            <button id="next-btn" class="submit-btn">Câu tiếp theo</button>
+            <button id="back-home-btn" class="submit-btn" style="background:#757575; display:none;">Về trang chủ</button>
+        </div>
+    </div>
+
+    <script src="practice.js"></script>
+</body>
+</html>
