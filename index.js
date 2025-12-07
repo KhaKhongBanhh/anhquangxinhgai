@@ -42,21 +42,32 @@ document.getElementById('start-practice-btn').onclick = function() {
         .then(res => res.json())
         .then(questions => {
             const modal = document.getElementById('practice-modal');
+            const startInput = document.getElementById('practice-start-question');
             const countInput = document.getElementById('practice-question-count');
             const timeInput = document.getElementById('practice-time');
             const shuffleCheck = document.getElementById('practice-shuffle');
             
             modal.style.display = 'flex';
+            startInput.max = questions.length;
             countInput.value = questions.length;
             countInput.max = questions.length;
 
             document.getElementById('practice-ok-btn').onclick = function() {
+                let startNum = parseInt(startInput.value);
                 let n = parseInt(countInput.value);
                 let t = parseInt(timeInput.value);
                 let shuffle = shuffleCheck.checked;
                 
-                if (isNaN(n) || n < 1 || n > questions.length) {
+                if (isNaN(startNum) || startNum < 1 || startNum > questions.length) {
+                    alert('Số câu bắt đầu không hợp lệ!');
+                    return;
+                }
+                if (isNaN(n) || n < 1) {
                     alert('Số lượng câu hỏi không hợp lệ!');
+                    return;
+                }
+                if (startNum + n - 1 > questions.length) {
+                    alert(`Chỉ còn ${questions.length - startNum + 1} câu từ câu số ${startNum}!`);
                     return;
                 }
                 if (isNaN(t) || t < 0) {
@@ -64,6 +75,7 @@ document.getElementById('start-practice-btn').onclick = function() {
                     return;
                 }
                 
+                localStorage.setItem('practice_start_question', startNum);
                 localStorage.setItem('practice_question_count', n);
                 localStorage.setItem('practice_time', t);
                 localStorage.setItem('practice_shuffle', shuffle);

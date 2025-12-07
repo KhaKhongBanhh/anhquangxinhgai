@@ -7,6 +7,7 @@ let currentCorrectOption = ''; // Lưu đáp án đúng sau khi đảo
 let currentShuffledAnswers = []; // Lưu mảng đáp án đã đảo
 
 // Lấy cài đặt
+const startQuestion = parseInt(localStorage.getItem('practice_start_question')) || 1;
 const questionCount = parseInt(localStorage.getItem('practice_question_count')) || 10;
 const timeLimit = parseInt(localStorage.getItem('practice_time')) || 0;
 const shuffleAnswers = localStorage.getItem('practice_shuffle') === 'true';
@@ -15,7 +16,8 @@ const shuffleAnswers = localStorage.getItem('practice_shuffle') === 'true';
 fetch('questions.json')
     .then(res => res.json())
     .then(questions => {
-        allQuestions = questions.slice(0, questionCount);
+        // Lấy câu hỏi từ vị trí bắt đầu
+        allQuestions = questions.slice(startQuestion - 1, startQuestion - 1 + questionCount);
         startPractice();
     });
 
@@ -70,9 +72,10 @@ function renderQuestion() {
     const displayOptions = ['A', 'B', 'C', 'D'];
     currentCorrectOption = displayOptions[correctIndex];
     
-    // Cập nhật tiến độ
+    // Cập nhật tiến độ - hiển thị số câu thực tế
+    const actualQuestionNumber = startQuestion + currentQuestionIndex;
     document.getElementById('progress-display').textContent = 
-        `Câu ${currentQuestionIndex + 1}/${allQuestions.length}`;
+        `Câu ${actualQuestionNumber} (${currentQuestionIndex + 1}/${allQuestions.length})`;
     
     // Render câu hỏi với ABCD theo thứ tự, mỗi đáp án trên một dòng
     let html = `<p style="font-weight:bold; margin-bottom:16px;">${q.question}</p>`;
