@@ -1,1271 +1,1052 @@
 [
   {
-    "question": "Theo nghĩa rộng, chủ nghĩa xã hội khoa học được hiểu là?",
+    "question": "Khẳng định của Đảng Cộng sản Việt Nam: \"Đường lối chính trị, nề nếp làm việc và đạo đức của Đảng ta hiện nay là đường lối, tác phong và đạo đức cách mạng của Hồ Chủ tịch…Toàn Đảng hãy ra sức học tập đường lối chinh trị, tác phong, đạo đức cách mạng của Hồ Chủ tịch\" xuất hiện vào năm nào?",
     "answers": [
-      { "option": "A", "text": "Chủ nghĩa Mác – Lênin" },
-      { "option": "B", "text": "Kinh tế chính trị Mác - Lênin" },
-      { "option": "C", "text": "Bộ phận cấu thành chủ nghĩa Mác – Lênin" },
-      { "option": "D", "text": "Triết học Mác – Lênin" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Cuộc cách mạng công nghiệp lần thứ nhất bắt đầu ở nước nào?",
-    "answers": [
-      { "option": "A", "text": "Anh" },
-      { "option": "B", "text": "Đức" },
-      { "option": "C", "text": "Pháp" },
-      { "option": "D", "text": "Nga" }
+      { "option": "A", "text": "Năm 1951" },
+      { "option": "B", "text": "Năm 1938" },
+      { "option": "C", "text": "Năm 1941" },
+      { "option": "D", "text": "Năm 1930" }
     ],
     "correct": "A"
   },
   {
-    "question": "Các nhà triết học cổ điển Đức nào có sự ảnh hưởng lớn và trực tiếp đến C. Mác và Ph. Ăngghen?",
+    "question": "Khẳng định của Ban chấp hành Trung ương Đảng Cộng sản Việt Nam: \"Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, người anh hùng dân tộc vĩ đại, và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta\", được đưa ra vào năm nào?",
     "answers": [
-      { "option": "A", "text": "A. Smith và D. Ricardo" },
-      { "option": "B", "text": "R. Oen và Cant" },
-      { "option": "C", "text": "Ph. Hêghen và L. Phoiơbắc" },
-      { "option": "D", "text": "Cant và Ph. Hêghen" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Học thuyết về sứ mệnh lịch sử của giai cấp công nhân là phát kiến vĩ đại của C. Mác và Ph. Ăngghen trong?",
-    "answers": [
-      { "option": "A", "text": "Triết học Mác – Lênin" },
-      { "option": "B", "text": "Kinh tế chính trị Mác - Lênin" },
-      { "option": "C", "text": "Chủ nghĩa xã hội khoa học" },
-      { "option": "D", "text": "Chủ nghĩa xã hội hiện thực" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Biến chủ nghĩa xã hội từ lí luận thành hiện thực là công lao của ai?",
-    "answers": [
-      { "option": "A", "text": "Hêghe" },
-      { "option": "B", "text": "C.Mác và Ph.Ăngghen" },
-      { "option": "C", "text": "V.I. Lênin" },
-      { "option": "D", "text": "I.V. Stalin" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Nội dung nào dưới đây là phát kiến vĩ đại của C. Mác và Ăngghen trọng chủ nghĩa xã hội khoa học?",
-    "answers": [
-      { "option": "A", "text": "Chủ nghĩa duy vật lịch sử" },
-      { "option": "B", "text": "Chủ nghĩa duy vật biện chứng" },
-      { "option": "C", "text": "Sứ mệnh đấu tránh chống áp bức của giai cấp công nhân" },
-      { "option": "D", "text": "Sứ mệnh lịch sử thế giới của giai cấp công nhân" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Tác phẩm “Tuyên ngôn của Đảng cộng sản” được C. Mác và Ph. Ăngghen viết vào thời gian nào?",
-    "answers": [
-      { "option": "A", "text": "Tháng 2 năm 1848" },
-      { "option": "B", "text": "Tháng 2 năm 1871" },
-      { "option": "C", "text": "Tháng 10 năm 1867" },
-      { "option": "D", "text": "Tháng 10 năm 1917" }
+      { "option": "A", "text": "Năm 1969" },
+      { "option": "B", "text": "Năm 1960" },
+      { "option": "C", "text": "Năm 1965" },
+      { "option": "D", "text": "Năm 1954" }
     ],
     "correct": "A"
   },
   {
-    "question": "Công cuộc đổi mới do Đảng cộng sản Việt Nam khởi xướng và lãnh đạo từ đại hội mấy?",
+    "question": "Khẳng định của Đảng Cộng sản Việt Nam: \"Thắng lợi to lớn của sự nghiệp chống Mỹ cứu nước, cũng như những trang sử chói lọi của cách mạng Việt Nam ngót nửa thế kỷ nay mãi mãi gắn liền với tên tuổi của Chủ tịch Hồ Chí Minh, người sáng lập và rèn luyện Đảng ta, người khai sinh nền Cộng hòa dân chủ Việt Nam, người vun trồng khối đại đoàn kết dân tộc và xây dựng lực lượng vũ trang cách mạng, vị lãnh tụ thiên tài của giai cấp công nhân và nhân dân ta, người anh hùng dân tộc vĩ đại, người chiến sĩ lỗi lạc của phong trào cộng sản và công nhân quốc tế\", được đưa ra vào năm nào?",
     "answers": [
-      { "option": "A", "text": "Đại hội V" },
-      { "option": "B", "text": "Đại hội VI" },
-      { "option": "C", "text": "Đại hội VII" },
-      { "option": "D", "text": "Đại hội VIII" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Mô hình xã hội chủ nghĩa ở Liên Xô và Đông Âu sụp đổ khi nào?",
-    "answers": [
-      { "option": "A", "text": "Cuối thập niên 80 của thế kỷ XX" },
-      { "option": "B", "text": "Cuối thập niên 80, đầu 90 của thế kỷ XX" },
-      { "option": "C", "text": "Đầu thập niên 90 của thế kỷ XX" },
-      { "option": "D", "text": "Cuối thập niên 70, đầu 80 của thế kỷ XX" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Hội nghị Đại biểu 81 Đảng cộng sản và công nhân quốc tế (1960) họp ở đâu?",
-    "answers": [
-      { "option": "A", "text": "Mátxcơva" },
-      { "option": "B", "text": "Bắc Kinh" },
-      { "option": "C", "text": "Thượng Hải" },
-      { "option": "D", "text": "Hà Nội" }
+      { "option": "A", "text": "Đại hội IV (1976)" },
+      { "option": "B", "text": "Đại hội III (1960)" },
+      { "option": "C", "text": "Đại hội V (1982)" },
+      { "option": "D", "text": "Đại hội II (1951)" }
     ],
     "correct": "A"
   },
   {
-    "question": "Giai cấp nào được ví là “con đẻ của nền đại công nghiệp tư bản chủ nghĩa”?",
+    "question": "Nhận định sau của Đảng Cộng sản Việt Nam được thông qua tại Đại hội đại biểu toàn quốc lần thứ mấy: \"Đảng phải đặc biệt coi trọng việc tổ chức học tập một cách có hệ thống tư tưởng, đạo đức, tác phong của Chủ tịch Hồ Chí Minh trong toàn Đảng\"?",
     "answers": [
-      { "option": "A", "text": "Nông dân" },
-      { "option": "B", "text": "Công nhân" },
-      { "option": "C", "text": "Tư sản" },
-      { "option": "D", "text": "Tiểu tư sản" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Đặc điểm nào sau đây không phải của giai cấp công nhân xét ở phương diện kinh tế - xã hội?",
-    "answers": [
-      { "option": "A", "text": "Sản xuất bằng máy móc" },
-      { "option": "B", "text": "Lao động có tính chất xã hội hóa" },
-      { "option": "C", "text": "Tạo ra những tiền đề của cải vật chất cho xã hội mới" },
-      { "option": "D", "text": "Môi trường làm việc áp lực" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Xét ở phương diện nào thì giai cấp công nhân là giai cấp đối kháng với giai cấp tư sản?",
-    "answers": [
-      { "option": "A", "text": "Chính trị - xã hội" },
-      { "option": "B", "text": "Kinh tế - xã hội" },
-      { "option": "C", "text": "Lịch sử - xã hội" },
-      { "option": "D", "text": "Văn hóa xã hội" }
+      { "option": "A", "text": "Đại hội V (1982)" },
+      { "option": "B", "text": "Đại hội III (1960)" },
+      { "option": "C", "text": "Đại hội IV (1976)" },
+      { "option": "D", "text": "Đại hội II (1951)" }
     ],
     "correct": "A"
   },
   {
-    "question": "Đâu không phải là phẩm chất đặc biệt của giai cấp công nhân?",
+    "question": "Nhận định sau của Đảng Cộng sản Việt Nam được thông qua tại Đại hội đại biểu toàn quốc lần thứ mấy: \"Đảng phải nắm vững bản chất cách mạng và khoa học của Chủ nghĩa Mác-Lênin, di sản quý báu về tư tưởng và lý luận cách mạng của Chủ tịch Hồ Chí Minh\"?",
     "answers": [
-      { "option": "A", "text": "Tính tổ chức, kỷ luật lao động" },
-      { "option": "B", "text": "Cần cù, sáng tạo" },
-      { "option": "C", "text": "Tinh thần hợp tác" },
-      { "option": "D", "text": "Tâm lý lao động công nghiệp" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Điền vào chỗ trống từ hoặc cụm từ thích hợp. “Chỉ có giai cấp công nhân là giai cấp duy nhất không có … với nghĩa là tư hữu”",
-    "answers": [
-      { "option": "A", "text": "Lợi ích chung" },
-      { "option": "B", "text": "Quyền lợi" },
-      { "option": "C", "text": "Lợi ích" },
-      { "option": "D", "text": "Lợi ích riêng" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Điền vào chỗ trống từ hoặc cụm từ thích hợp. “Hiện nay, ở các nước tư bản chủ nghĩa, giai cấp công nhân vẫn bị giai cấp tư sản và chủ nghĩa tư bản bóc lột…”",
-    "answers": [
-      { "option": "A", "text": "Lao động" },
-      { "option": "B", "text": "Giá trị thặng dư" },
-      { "option": "C", "text": "Sức lao động" },
-      { "option": "D", "text": "Thời gian, công sức" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Phát biểu nào sau đây không đúng về đặc điểm của giai cấp công nhân mang sứ mệnh lịch sử thế giới?",
-    "answers": [
-      { "option": "A", "text": "Giai cấp công nhân là giai cấp đại diện cho lực lượng sản xuất tiến bộ của thời đại" },
-      { "option": "B", "text": "Giai cấp công nhân là giai cấp đông đảo và tiên phong" },
-      { "option": "C", "text": "Là giai cấp có lợi ích gắn chặt với giai cấp tư sản" },
-      { "option": "D", "text": "Giai cấp công nhân là lực lượng đại diện cho khuynh hướng tiến bộ của nhân loại." }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Phát biểu nào sau đây không đúng về sứ mệnh lịch sử thế giới của giai cấp công nhân?",
-    "answers": [
-      { "option": "A", "text": "Là giai cấp đại diện cho cho lực lượng sản xuất tiến bộ của thời đại" },
-      { "option": "B", "text": "Là lực lượng đông đảo và tiên phong" },
-      { "option": "C", "text": "Lực lượng đại diện cho khuynh hướng tiến bộ của nhân loại" },
-      { "option": "D", "text": "Lực lượng tiến bộ nhưng chỉ bảo vệ cho giai cấp mình" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, qui luật chung, phổ biến cho sự ra đời của Đảng Cộng sản là sự kết hợp giữa chủ nghĩa Mác – Lênin với?",
-    "answers": [
-      { "option": "A", "text": "Phong trào yêu nước" },
-      { "option": "B", "text": "Phong trào nông dân" },
-      { "option": "C", "text": "Phong trào công nhân" },
-      { "option": "D", "text": "Phong trào giải phóng dân tộc" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Đâu là mục tiêu lớn nhất của giai cấp công nhân?",
-    "answers": [
-      { "option": "A", "text": "Toàn bộ lợi ích thống nhất nhau" },
-      { "option": "B", "text": "Nhiều lợi ích cơ bản thống nhất với nhau" },
-      { "option": "C", "text": "Lợi ích hoàn toàn khác nhau" },
-      { "option": "D", "text": "Lợi ích hoàn toàn đối lập nhau" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Nội dung nào là yếu tố đúng nhất về hoàn cảnh ra đời của giai cấp công nhân Việt Nam?",
-    "answers": [
-      { "option": "A", "text": "Ra đời cùng với chính sách cai trị của thực dân Pháp ở Việt Nam" },
-      { "option": "B", "text": "Ra đời cùng với chiến lược xâm chiếm thuộc địa của Pháp" },
-      { "option": "C", "text": "Ra đời trên cơ sở tan rã của chế độ Phong Kiến" },
-      { "option": "D", "text": "Ra đời ngay sau cách mạng vô sản" }
+      { "option": "A", "text": "Đại hội VI (1986)" },
+      { "option": "B", "text": "Đại hội V (1982)" },
+      { "option": "C", "text": "Đại hội IV (1976)" },
+      { "option": "D", "text": "Đại hội VII (1991)" }
     ],
     "correct": "A"
   },
   {
-    "question": "Đâu không phải là đặc điểm chủ yếu của giai cấp công nhân Việt Nam?",
+    "question": "Trong khái niệm Tư tưởng Hồ Chí Minh thể hiện những nội dung nào sau đây?",
     "answers": [
-      { "option": "A", "text": "Ra đời sau giai cấp tư sản Việt Nam" },
-      { "option": "B", "text": "Có truyền thống yêu nước, đoàn kết, bất khuất chống xâm lược" },
-      { "option": "C", "text": "Có tinh thần cách mạng triệt để và là giai cấp lãnh đạo cách mạng thông qua đội tiên phong của mình là Đảng cộng sản." },
-      { "option": "D", "text": "Có quan hệ mật thiết với các tầng lớp nhân dân lao động trong xã hội" }
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Bản chất cách mạng, khoa học của tư tưởng Hồ Chí Minh" },
+      { "option": "C", "text": "Nguồn gốc, cơ sở hình thành tư tưởng Hồ Chí Minh" },
+      { "option": "D", "text": "Ý nghĩa và giá trị của tư tưởng Hồ Chí Minh" }
     ],
     "correct": "A"
   },
   {
-    "question": "Ở Việt Nam hiện nay, giai cấp nào là lực lượng nòng cốt trong liên minh giai cấp công nhân với nông dân và đội ngũ trí thức dưới sự lãnh đạo của Đảng cộng sản Việt Nam?",
+    "question": "Ý nghĩa học tập môn Tư tưởng Hồ Chí Minh là gì?",
     "answers": [
-      { "option": "A", "text": "Công nhân" },
-      { "option": "B", "text": "Nông dân" },
-      { "option": "C", "text": "Tư sản" },
-      { "option": "D", "text": "Trí thức" }
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Góp phần nâng cao năng lực tư duy lý luận" },
+      { "option": "C", "text": "Giáo dục và thực hành đạo đức cách mạng, củng cố niềm tin khoa học gắn liền với trau dồi tình cảm cách mạng, bồi dưỡng lòng yêu nước" },
+      { "option": "D", "text": "Xây dựng, rèn luyện phương pháp và phong cách công tác" }
     ],
     "correct": "A"
   },
   {
-    "question": "Đặc trưng chính trị vượt trội của công nhân Việt Nam không chỉ thể hiện ở ý thức giai cấp và lập trường chính trị mà còn thể hiện ở?",
+    "question": "Nội dung nào sau đây không được thể hiện trong khái niệm Tư tưởng Hồ Chí Minh?",
     "answers": [
-      { "option": "A", "text": "Tinh thần dân tộc" },
-      { "option": "B", "text": "Tinh thần giai cấp" },
-      { "option": "C", "text": "Tinh thần lao động" },
-      { "option": "D", "text": "Ý thức tổ chức kỷ luật" }
+      { "option": "A", "text": "Thời gian hình thành tư tưởng Hồ Chí Minh" },
+      { "option": "B", "text": "Bản chất cách mạng, khoa học của tư tưởng Hồ Chí Minh" },
+      { "option": "C", "text": "Nguồn gốc, cơ sở hình thành tư tưởng Hồ Chí Minh" },
+      { "option": "D", "text": "Ý nghĩa và giá trị của tư tưởng Hồ Chí Minh" }
     ],
     "correct": "A"
   },
   {
-    "question": "Nguyên nhân nào dưới đây tạo thành động lực thúc đẩy đoàn kết giai cấp gằn liền với đoàn kết dân tộc trong mọi thời kỳ đấu tranh cách mạng ở Việt Nam?",
+    "question": "Đâu không phải là ý nghĩa học tập môn Tư tưởng Hồ Chí Minh?",
     "answers": [
-      { "option": "A", "text": "Lợi ích dân tộc tách rời lợi ích giai cấp công nhân" },
-      { "option": "B", "text": "Lợi ích giai cấp công nhân cao hơn lợi ích dân tộc" },
-      { "option": "C", "text": "Lợi ích giai cấp công nhân và lợi ích dân tộc gắn chặt với nhau" },
-      { "option": "D", "text": "Toàn thể lợi ích dân tộc tập trung giải quyết vấn đề lợi ích của giai cấp công nhân." }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Cuối thế kỷ XIX, đầu thế kỷ XX, giai cấp công nhân Việt Nam có lợi ích đối kháng trực tiếp với?",
-    "answers": [
-      { "option": "A", "text": "Tư sản Việt Nam" },
-      { "option": "B", "text": "Thực dân Pháp" },
-      { "option": "C", "text": "Địa chủ Việt Nam" },
-      { "option": "D", "text": "Bè lũ tay sai của thực dân Pháp" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Nhận định \"Phát huy vai trò và trách nhiệm của lực lượng đi đầu trong sự nghiệp đẩy mạnh CNH, HĐH đất nước\" nằm trong nội dung sứ mệnh lịch sử nào của giai cấp công nhân Việt Nam hiện nay?",
-    "answers": [
-      { "option": "A", "text": "Nội dung kinh tế" },
-      { "option": "B", "text": "Nội dung chính trị - xã hội" },
-      { "option": "C", "text": "Nội dung văn hóa" },
-      { "option": "D", "text": "Nội dung tư tưởng" }
+      { "option": "A", "text": "Góp phần học tập tốt các môn Lý luận chính trị" },
+      { "option": "B", "text": "Góp phần nâng cao năng lực tư duy lý luận" },
+      { "option": "C", "text": "Giáo dục và thực hành đạo đức cách mạng, củng cố niềm tin khoa học gắn liền với trau dồi tình cảm cách mạng, bồi dưỡng lòng yêu nước" },
+      { "option": "D", "text": "Xây dựng, rèn luyện phương pháp và phong cách công tác" }
     ],
     "correct": "A"
   },
   {
-    "question": "Nhận định \"Xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc\" nằm trong nội dung sứ mệnh lịch sử nào của giai cấp công nhân Việt Nam hiện nay?",
+    "question": "Phương pháp luận của việc nghiên cứu Tư tưởng Hồ Chí Minh là gì?",
     "answers": [
-      { "option": "A", "text": "Nội dung kinh tế" },
-      { "option": "B", "text": "Nội dung chính trị" },
-      { "option": "C", "text": "Nội dung văn hóa, tư tưởng" },
-      { "option": "D", "text": "Nội dung xã hội" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Nội dung nào dưới đây là lý do quyết định giai cấp công nhân Việt Nam sớm trở thành lực lượng chính trị độc lập và giữ vai trò lãnh đạo cách mạng?",
-    "answers": [
-      { "option": "A", "text": "Có mối quan hệ gắn bó với nông dân" },
-      { "option": "B", "text": "Kế thừa truyền thống yêu nước bất khuất của dân tộc" },
-      { "option": "C", "text": "Có số lượng đông đảo" },
-      { "option": "D", "text": "Hình thành được chính Đảng thực sự cách mạng" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Có mấy giải pháp cơ bản để xây dựng giai cấp công nhân Việt Nam hiện nay?",
-    "answers": [
-      { "option": "A", "text": "3" },
-      { "option": "B", "text": "4" },
-      { "option": "C", "text": "5" },
-      { "option": "D", "text": "6" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Quan điểm nào sau đây là quan điểm đúng về Chủ nghĩa xã hội?",
-    "answers": [
-      { "option": "A", "text": "Là một tổ chức xã hội không có giai cấp" },
-      { "option": "B", "text": "Là giai đoạn đầu của hình thái kinh tế - xã hội cộng sản" },
-      { "option": "C", "text": "Là một phương thức sản xuất" },
-      { "option": "D", "text": "Là một phần của hình thái kinh tế - xã hội cộng sản" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Điền từ thích hợp vào chỗ trống sau: Lê nin cho rằng: \"đối với các nước chưa có chủ nghĩa tư bản phát triển cao, cần phải có một thời kỳ quá độ…từ chủ nghĩa tư bản lên chủ nghĩa xã hội\"",
-    "answers": [
-      { "option": "A", "text": "Khá cơ bản" },
-      { "option": "B", "text": "Khá lâu dài" },
-      { "option": "C", "text": "Khá gian nan" },
-      { "option": "D", "text": "Khá nhanh" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Lênin cho rằng, “về lý luận, không thể nghi ngờ gì được rằng giữa …và chủ nghĩa cộng sản, có một thời kỳ quá độ nhất định”. Điền từ, cụm từ thích hợp vào chỗ trống.",
-    "answers": [
-      { "option": "A", "text": "Chủ nghĩa tư bản" },
-      { "option": "B", "text": "Chủ nghĩa xã hội" },
-      { "option": "C", "text": "Chủ nghĩa thực dân" },
-      { "option": "D", "text": "Chủ nghĩa tập thể" }
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Bảo đảm sự thống nhất nguyên tắc tính Đảng và tính khoa học" },
+      { "option": "C", "text": "Thống nhất lý luận và thực tiễn" },
+      { "option": "D", "text": "Quan điểm lịch sử - cụ thể" }
     ],
     "correct": "A"
   },
   {
-    "question": "Chủ nghĩa Mác cho rằng, “Trong xã hội tư bản chủ nghĩa, khi quan hệ sản xuất mâu thuẫn với lực lượng sản xuất. QHSX từ chỗ đóng vai trò mở đường cho LLSX phát triển, thì ngày càng trở nên lỗi thời, xiềng xích …”. hãy điền từ và cụm từ thích hợp vào chỗ trống?",
+    "question": "Nội dung nào sau đây thuộc cơ sở thực tiễn hình thành nên tư tưởng Hồ Chí Minh?",
     "answers": [
-      { "option": "A", "text": "Phương thức sản xuất" },
-      { "option": "B", "text": "Chính nó" },
-      { "option": "C", "text": "Lực lượng sản xuất" },
-      { "option": "D", "text": "Xã hội" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Mục tiêu cao nhất của chủ nghĩa xã hội là gì?",
-    "answers": [
-      { "option": "A", "text": "Xóa bỏ các giai cấp" },
-      { "option": "B", "text": "Giải phóng con người trên cơ sở điều kiện kinh tế - xã hội phát triển mà xét đến cùng là trình độ phát triển cao của lực lượng sản xuất" },
-      { "option": "C", "text": "Xóa bỏ mọi nghèo nàn, lạc hậu" },
-      { "option": "D", "text": "Mang lại công bằng cho tất cả mọi người" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Đâu không phải là đặc trưng bản chất của chủ nghĩa xã hội?",
-    "answers": [
-      { "option": "A", "text": "Do nhân dân lao động làm chủ" },
-      { "option": "B", "text": "Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu" },
-      { "option": "C", "text": "Có nhà nước kiểu mới mang bản chất của giai cấp tư sản" },
-      { "option": "D", "text": "Có nền văn hóa phát triển cao, kế thừa và phát huy những giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Nhà cách mạng nào đã nêu ra khẩu hiệu \"Vô sản tất cả các nước và các dân tộc bị áp bức, đoàn kết lại\"?",
-    "answers": [
-      { "option": "A", "text": "V.I.Lênin" },
-      { "option": "B", "text": "C. Mác" },
-      { "option": "C", "text": "Ph. Ăngghen" },
-      { "option": "D", "text": "Hồ Chí Minh" }
+      { "option": "A", "text": "Thực tiễn xã hội Việt Nam cuối thế kỷ XIX-đầu thế kỷ XX" },
+      { "option": "B", "text": "Thực tiễn thế giới cuối thế kỷ XX-đầu thế kỷ XXI" },
+      { "option": "C", "text": "Giá trị truyền thống tốt đẹp của dân tộc Việt Nam" },
+      { "option": "D", "text": "Chủ nghĩa Mác Lênin" }
     ],
     "correct": "A"
   },
   {
-    "question": "Điền vào chỗ trống từ còn thiếu, Lênin cho rằng: \"chuyên chính cách mạng của giai cấp vô sản là một chính quyền do giai cấp vô sản giành được và duy trì bằng bạo lựu đối với ….\"",
+    "question": "Nội dung nào sau đây không thuộc cơ sở lý luận hình thành nên tư tưởng Hồ Chí Minh?",
     "answers": [
-      { "option": "A", "text": "Giai cấp chủ nô" },
-      { "option": "B", "text": "Giai cấp nông dân" },
-      { "option": "C", "text": "Giai cấp tư sản" },
-      { "option": "D", "text": "Giai cấp phong kiến" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Điền vào chỗ trống từ còn thiếu, Lênin cho rằng: \"Từ chủ nghĩa tư bản, nhân loại chỉ có thể thẳng lên …, nghĩa là lên chế độ công hữu về các tư liệu sản xuất và chế độ phân phối sản phẩm theo lao động của mỗi người\"",
-    "answers": [
-      { "option": "A", "text": "Chủ nghĩa xã hội" },
-      { "option": "B", "text": "Chủ nghĩa tập thể" },
-      { "option": "C", "text": "Chủ nghĩa cộng sản" },
-      { "option": "D", "text": "Chủ nghĩa xét lại" }
+      { "option": "A", "text": "Thực tiễn thế giới cuối thế kỷ XIX-đầu thế kỷ XX" },
+      { "option": "B", "text": "Chủ nghĩa Mác Lênin" },
+      { "option": "C", "text": "Tinh hoa văn hóa nhân loại" },
+      { "option": "D", "text": "Giá trị truyền thống tốt đẹp của dân tộc Việt Nam" }
     ],
     "correct": "A"
   },
   {
-    "question": "Học thuyết hình thái kinh tế xã hội của chủ nghĩa Mác- Lênin đã chỉ rõ, lịch sử xã hội loài người đã trải qua mấy hình thái kinh tế - xã hội?",
+    "question": "Hồ Chí Minh đã tiếp thu trong tinh hoa văn hóa, tư tưởng Phương Đông là 3 học thuyết lớn nào sau đây?",
     "answers": [
-      { "option": "A", "text": "3" },
-      { "option": "B", "text": "4" },
-      { "option": "C", "text": "5" },
-      { "option": "D", "text": "6" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Quan điểm \"Về lý luận, không thể nghi ngờ gì được rằng giữa chủ nghĩa tư bản và chủ nghĩa cộng sản, có một thời kỳ nhất định\" là của ai?",
-    "answers": [
-      { "option": "A", "text": "C. Mác" },
-      { "option": "B", "text": "V.I.Lênin" },
-      { "option": "C", "text": "Ph. Ăngghen" },
-      { "option": "D", "text": "Hồ Chí Minh" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Các nhà sáng lập chủ nghĩa xã hội đã khẳng định có mấy loại quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội?",
-    "answers": [
-      { "option": "A", "text": "3" },
-      { "option": "B", "text": "2" },
-      { "option": "C", "text": "5" },
-      { "option": "D", "text": "6" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Điền từ còn thiếu trong nhận định sau đây \"Các nước lạc hậu với sự giúp đỡ của ….đã chiến thắng có thể rút ngắn được quá trình phát triển\"",
-    "answers": [
-      { "option": "A", "text": "Giai cấp vô sản" },
-      { "option": "B", "text": "Giai cấp tư sản" },
-      { "option": "C", "text": "Nhà nước" },
-      { "option": "D", "text": "Đảng tiền phong" }
+      { "option": "A", "text": "Nho giáo, Phật giáo, Lão giáo" },
+      { "option": "B", "text": "Nho giáo, Phật giáo, Thiên chúa giáo" },
+      { "option": "C", "text": "Chủ nghĩa Mác Lênin, Phật giáo, Lão giáo" },
+      { "option": "D", "text": "Nho giáo, Thiên chúa giáo, Lão giáo" }
     ],
     "correct": "A"
   },
   {
-    "question": "Đâu không thuộc lĩnh vực thể hiện đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội?",
+    "question": "Theo Hồ Chí Minh, ưu điểm lớn nhất của Khổng Tử là gì?",
     "answers": [
-      { "option": "A", "text": "Lĩnh vực kinh tế" },
-      { "option": "B", "text": "Lĩnh vực chính trị" },
-      { "option": "C", "text": "Lĩnh vực tư tưởng – văn hóa" },
-      { "option": "D", "text": "Lĩnh vực an ninh – quốc phòng" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Lênin cho rằng, “về lý luận, không thể nghi ngờ gì được rằng giữa …và chủ nghĩa cộng sản, có một thời kỳ quá độ nhất định”. Điền từ, cụm từ thích hợp vào chỗ trống",
-    "answers": [
-      { "option": "A", "text": "Chủ nghĩa tư bản" },
-      { "option": "B", "text": "Chủ nghĩa xã hội" },
-      { "option": "C", "text": "Chủ nghĩa thực dân" },
-      { "option": "D", "text": "hủ nghĩa tập thể" }
+      { "option": "A", "text": "Sự tu dưỡng đạo đức cá nhân" },
+      { "option": "B", "text": "Quản lý xã hội bằng đạo đức" },
+      { "option": "C", "text": "Tinh thần hiếu học" },
+      { "option": "D", "text": "Coi thường xa hoa" }
     ],
     "correct": "A"
   },
   {
-    "question": "Đâu là đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội xét trên lĩnh vực kinh tế?",
+    "question": "Theo Hồ Chí Minh, ưu điểm lớn nhất của Tôn giáo Giesu là gì?",
     "answers": [
-      { "option": "A", "text": "Tồn tại nhiều thành phần kinh tế, các thành phần kinh tế không đối lập với nhau" },
-      { "option": "B", "text": "Tất yếu tồn tại nền kinh tế nhiều thành phần, trong đó có thành phần đối lập" },
-      { "option": "C", "text": "Chỉ tồn tại nền kinh tế nhà nước" },
-      { "option": "D", "text": "Kinh tế nhà nước và tập thể giữ vai trò chủ đạo" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội là tất yếu đối với?",
-    "answers": [
-      { "option": "A", "text": "Các nước bỏ qua chủ nghĩa tư bản lên chủ nghĩa xã hội" },
-      { "option": "B", "text": "Các nước tư bản mạnh" },
-      { "option": "C", "text": "Các nước tư bản yếu" },
-      { "option": "D", "text": "Tất cả các nước xây dựng chủ nghĩa xã hội" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Nội dung nào dưới đây là đặc điểm kinh tế của thời ký quá độ lên chủ nghĩa xã hội?",
-    "answers": [
-      { "option": "A", "text": "Tiến hành công nghiệp hóa, hiện đại hóa đất nước" },
-      { "option": "B", "text": "Tồn tại nền kinh tế nhiều thành phấn" },
-      { "option": "C", "text": "Tồn tại duy nhất nền kinh tế nhà nước" },
-      { "option": "D", "text": "Cả A và C đều đúng" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Văn kiện đại hội Đảng toàn quốc lần thứ XI (2011) xác định xã hội xã hội chủ nghĩa mà nhân dân ta xây dựng có mấy đặc trưng?",
-    "answers": [
-      { "option": "A", "text": "6" },
-      { "option": "B", "text": "7" },
-      { "option": "C", "text": "8" },
-      { "option": "D", "text": "9" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Thuật ngữ “Demoskratos - dân chủ” thời cổ đại được hiểu là?",
-    "answers": [
-      { "option": "A", "text": "Quyền lực của cộng đồng" },
-      { "option": "B", "text": "Quyền lực của nhân dân" },
-      { "option": "C", "text": "Quyền lực của nhà nước" },
-      { "option": "D", "text": "Quyền lực của chủ nô" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Thuật ngữ \"Dân chủ\" lần đầu ra đời vào khoảng thời gian nào?",
-    "answers": [
-      { "option": "A", "text": "Khoảng thế kỷ VIII-V TCN" },
-      { "option": "B", "text": "Khoảng thế kỷ VII- VI TCN" },
-      { "option": "C", "text": "Khoảng thế kỷ VII - VI" },
-      { "option": "D", "text": "Khoảng thế kỷ VIII - VI" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Trong các chế độ xã hội đã tồn tại trong lịch sử, chế độ nào không có dân chủ?",
-    "answers": [
-      { "option": "A", "text": "Cộng sản nguyên thủy" },
-      { "option": "B", "text": "Phong kiến" },
-      { "option": "C", "text": "Tư bản chủ nghĩa" },
-      { "option": "D", "text": "Chiếm hữu nô lệ" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "\"Dân chủ được xem là một hình thức hay một hình thái nhà nước\" là quan điểm thể hiện ở phương diện nào?",
-    "answers": [
-      { "option": "A", "text": "Phương diện quyền lực" },
-      { "option": "B", "text": "Phương diện chế độ xã hội và chính trị" },
-      { "option": "C", "text": "Phương diện tổ chức và quản lý nhà nước" },
-      { "option": "D", "text": "Phương diện văn hóa, xã hội." }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Dân chủ nguyên thủy còn được gọi là gì?",
-    "answers": [
-      { "option": "A", "text": "Dân chủ sơ khai" },
-      { "option": "B", "text": "Dân chủ cách mạng" },
-      { "option": "C", "text": "Dân chủ quân sự" },
-      { "option": "D", "text": "Dân chủ toàn năng" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Trong lịch sử nhân loại, sau khi hình thức \"dân chủ nguyên thủy\" tan rã, chế độ dân chủ nào ra đời?",
-    "answers": [
-      { "option": "A", "text": "Dân chủ phong kiến" },
-      { "option": "B", "text": "Dân chủ tư sản" },
-      { "option": "C", "text": "Dân chủ xã hội chủ nghĩa" },
-      { "option": "D", "text": "Dân chủ chủ nô" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Chế độ dân chủ nhân dân ở nước ta được xác lập khi nào?",
-    "answers": [
-      { "option": "A", "text": "Sau tháng 2 năm 1930" },
-      { "option": "B", "text": "Sau tháng 4 năm 1975" },
-      { "option": "C", "text": "Sau cách mạng tháng 8 năm 1945" },
-      { "option": "D", "text": "Sau tháng 10 năm 1992" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Với tư cách là một hình thái nhà nước, một chế độ chính trị, trong lịch sử cho đến nay đã tồn tại mấy chế độ dân chủ?",
-    "answers": [
-      { "option": "A", "text": "2" },
-      { "option": "B", "text": "4" },
-      { "option": "C", "text": "3" },
-      { "option": "D", "text": "5" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Đâu là điều kiện tiên quyết để xây dựng nền dân chủ xã hội chủ nghĩa ở Việt Nam?",
-    "answers": [
-      { "option": "A", "text": "Xây dựng Đảng cộng sản Việt Nam trong sạch, vững mạnh" },
-      { "option": "B", "text": "Xây dựng nhà nước Việt Nam lớn mạnh" },
-      { "option": "C", "text": "Xây dựng và hoàn thiện các hệ thống giám sát, phản biện xã hội, phát huy quyền làm chủ của nhân dân" },
-      { "option": "D", "text": "Cải cách thể chế và hoạt động của mặt trận tổ quốc" }
+      { "option": "A", "text": "Lòng nhân ái cao cả" },
+      { "option": "B", "text": "Lòng cao thượng" },
+      { "option": "C", "text": "Đức hy sinh" },
+      { "option": "D", "text": "Tư tưởng kiên trì" }
     ],
     "correct": "A"
   },
   {
-    "question": "Xét về mặt chính trị, nhà nước xã hội chủ nghĩa mang bản chất của giai cấp nào?",
+    "question": "Hồ Chí Minh đã tiếp thu những yếu tố nào của Phật giáo?",
     "answers": [
-      { "option": "A", "text": "Nông dân" },
-      { "option": "B", "text": "Công nhân" },
-      { "option": "C", "text": "Tư sản" },
-      { "option": "D", "text": "Chủ nô" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Nhà nước xã hội chủ nghĩa ra đời là kết quả của cuộc cách mạng do giai cấp vô sản và nhân dân lao động dưới sự lãnh đạo của…?",
-    "answers": [
-      { "option": "A", "text": "Giai cấp công nhân" },
-      { "option": "B", "text": "Giai cấp nông dân" },
-      { "option": "C", "text": "Đảng cộng sản" },
-      { "option": "D", "text": "Nhân dân" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Căn cứ vào tính chất quyền lực, nhà nước có chức năng nào dưới đây?",
-    "answers": [
-      { "option": "A", "text": "Chức năng đối nội và chức năng đối ngoại" },
-      { "option": "B", "text": "Chức năng quản lí kinh tế và quản lí chính trị" },
-      { "option": "C", "text": "Chức năng giai cấp và chức năng xã hội" },
-      { "option": "D", "text": "Chức năng lãnh đạo và chức năng giám sát" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Nhà nước pháp quyền xã hội chủ nghĩa quản lí mọi mặt đời sống xã hội chủ yếu bằng?",
-    "answers": [
-      { "option": "A", "text": "Đường lối, chủ trương" },
-      { "option": "B", "text": "Hiến pháp, pháp luật" },
-      { "option": "C", "text": "Tuyên truyền, giáo dục" },
-      { "option": "D", "text": "Răn đe, trừng phạt" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Nhà nước xã hội chủ nghĩa là đại biểu cho ý chí chung của",
-    "answers": [
-      { "option": "A", "text": "Nhân dân lao động" },
-      { "option": "B", "text": "Giai cấp công nhân" },
-      { "option": "C", "text": "Toàn xã hội" },
-      { "option": "D", "text": "Công nhân, nông dân, trí thức" }
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Tinh thần cứu khổ cứu nạn" },
+      { "option": "C", "text": "Sống giản dị" },
+      { "option": "D", "text": "Tinh thần từ bi bác ái" }
     ],
     "correct": "A"
   },
   {
-    "question": "Nhà nước xã hội chủ nghĩa trở thành công cụ quan trọng cho việc thực thi quyền làm chủ của?",
+    "question": "Theo Hồ Chí Minh, ưu điểm lớn nhất của chủ nghĩa Mác-Lênin là gì?",
     "answers": [
-      { "option": "A", "text": "Xã hội" },
-      { "option": "B", "text": "Giai cấp thống trị" },
-      { "option": "C", "text": "Người dân" },
-      { "option": "D", "text": "Công nhân" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam mang bản chất của giai cấp, tầng lớp nào?",
-    "answers": [
-      { "option": "A", "text": "Công nhân" },
-      { "option": "B", "text": "Nông dân" },
-      { "option": "C", "text": "Trí thức" },
-      { "option": "D", "text": "Mọi giai tầng trong xã hội" }
+      { "option": "A", "text": "Phương pháp làm việc biện chứng" },
+      { "option": "B", "text": "Chủ nghĩa nhân đạo" },
+      { "option": "C", "text": "Giải phóng dân tộc" },
+      { "option": "D", "text": "Tình thương người" }
     ],
     "correct": "A"
   },
   {
-    "question": "Câu nói \"Nước ta là nước dân chủ. Bao nhiêu lợi ích đều vì dân. Bao nhiêu quyền hạn đều của dân\" là của nhà cách mạng nào?",
+    "question": "Hồ Chí Minh đề cao Các Mác ở phương diện nào?",
     "answers": [
-      { "option": "A", "text": "Trường Chinh" },
-      { "option": "B", "text": "Hồ Chí Minh" },
-      { "option": "C", "text": "Võ Nguyên Giáp" },
-      { "option": "D", "text": "Phạm Văn Đồng" }
+      { "option": "A", "text": "Phương pháp làm việc biện chứng" },
+      { "option": "B", "text": "Chủ nghĩa duy vật" },
+      { "option": "C", "text": "Tinh thần cách mạng" },
+      { "option": "D", "text": "Trí tuệ siêu phàm" }
     ],
-    "correct": "B"
+    "correct": "A"
   },
   {
-    "question": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam có mấy đặc điểm cơ bản?",
+    "question": "Hồ Chí Minh tìm thấy ở Tôn Trung Sơn những điều thích hợp với Việt Nam, đó là tư tưởng gì?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Dân tộc độc lập" },
+      { "option": "C", "text": "Dân quyền tự do" },
+      { "option": "D", "text": "Dân sinh hạnh phúc" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nhân tố nào sau đây là cơ sở hình thành tư tưởng Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Hồ Chí Minh có lý tưởng cao cả, hoài bão lớn cứu dân cứu nước" },
+      { "option": "C", "text": "Người có khả năng tiếp cận một cách chính xác, đúng đắn giá trị truyền thống của dân tộc, tinh hoa văn hóa nhân loại" },
+      { "option": "D", "text": "Hồ Chí Minh có hoạt động thực tiễn hết sức phong phú đa dạng" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Thời kỳ 1911-1920, đánh dấu bước tiến gì trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Hình thành tư tưởng cứu nước, giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản" },
+      { "option": "B", "text": "Hình thành những nội dung cơ bản về tư tưởng cách mạng Việt Nam" },
+      { "option": "C", "text": "Hình thành tư tưởng yêu nước và chí hướng tìm đường cứu nước mới" },
+      { "option": "D", "text": "Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Thời kỳ 1920-1930, đánh dấu bước tiến gì trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Hình thành những nội dung cơ bản về tư tưởng cách mạng Việt Nam" },
+      { "option": "B", "text": "Hình thành tư tưởng cứu nước, giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản" },
+      { "option": "C", "text": "Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo" },
+      { "option": "D", "text": "Tư tưởng Hồ Chí Minh tiếp tục phát triển, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Thời kỳ 1930-1941, đánh dấu bước tiến gì trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo" },
+      { "option": "B", "text": "Hình thành những nội dung cơ bản về tư tưởng cách mạng Việt Nam" },
+      { "option": "C", "text": "Hình thành tư tưởng cứu nước, giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản" },
+      { "option": "D", "text": "Tư tưởng Hồ Chí Minh tiếp tục phát triển, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Hồ Chí Minh đã dùng hình tượng nào dưới đây để chủ nghĩa tư bản?",
+    "answers": [
+      { "option": "A", "text": "Con đỉa có hai vòi" },
+      { "option": "B", "text": "Con bạch tuộc" },
+      { "option": "C", "text": "Con đại bàng" },
+      { "option": "D", "text": "Con diều hâu" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Thay mặt những người Việt Nam yêu nước tại Pháp, Nguyễn Ái Quốc đã gửi đến hội nghị Vecxay (1919) văn bản nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "Bản yêu sách của nhân dân Việt Nam" },
+      { "option": "B", "text": "Báo cáo gửi Quốc tế cộng sản" },
+      { "option": "C", "text": "Lời kêu gọi" },
+      { "option": "D", "text": "Lời kêu gọi toàn quốc kháng chiến" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nguyễn Ái Quốc kể lại \"Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng mà tôi nói to lên như đang nói trước quần chúng đông đảo: hỡi đồng bào bị đọa đầy đau khổ? Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng của chúng ta\" để nói về sự kiện gì?",
+    "answers": [
+      { "option": "A", "text": "Khi đọc bản \"Sơ thảo Lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa\"" },
+      { "option": "B", "text": "Khi tìm hiểu về chủ nghĩa Tam dân của Tôn Trung Sơn" },
+      { "option": "C", "text": "Khi nghe tin cách mạng tháng Mười Nga thắng lợi" },
+      { "option": "D", "text": "Cả 3 đáp án đều sai" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Khoảng thời gian nào đánh dấu thời kỳ \"Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo\" trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "1930-1941" },
+      { "option": "B", "text": "1920-1930" },
+      { "option": "C", "text": "1911-1920" },
+      { "option": "D", "text": "1941-1969" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Khoảng thời gian nào đánh dấu thời kỳ hình thành tư tưởng cứu nước, giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "1911-1920" },
+      { "option": "B", "text": "1920-1930" },
+      { "option": "C", "text": "1930-1941" },
+      { "option": "D", "text": "1941-1969" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Sau khi nghiên cứu \"Sơ thảo lần thứ nhất những Luận cương về vấn đề dân tộc và vấn đề thuộc địa\", Nguyễn Ái Quốc đã tìm thấy con đường cách mạng gì cho dân tộc Việt Nam?",
+    "answers": [
+      { "option": "A", "text": "Cách mạng vô sản" },
+      { "option": "B", "text": "Cách mạng tư sản" },
+      { "option": "C", "text": "Đấu tranh theo khung hướng dân chủ tư sản" },
+      { "option": "D", "text": "Đấu tranh theo khung hướng phong kiến" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Tài liệu nào sau đây là sự chuẩn bị mọi mặt về chính trị, tư tưởng, tổ chức cho sự ra đời của Đảng cộng sản Việt Nam?",
+    "answers": [
+      { "option": "A", "text": "Đường Kách mệnh" },
+      { "option": "B", "text": "Bản án chế độ thực dân Pháp" },
+      { "option": "C", "text": "Con rồng tre" },
+      { "option": "D", "text": "Báo Thanh niên" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nguyễn Ái Quốc đã thành lập \"Hội Việt Nam cách mạng Thanh niên\" vào thời gian nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "6/1925" },
+      { "option": "B", "text": "5/1925" },
+      { "option": "C", "text": "4/1925" },
+      { "option": "D", "text": "7/1925" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Tác phẩm nào sau đây của Nguyễn Ái Quốc đã phân tích sâu sắc bản chất, thủ đoạn của chủ nghĩa thực dân Pháp?",
+    "answers": [
+      { "option": "A", "text": "Bản án chế độ thực dân Pháp" },
+      { "option": "B", "text": "Đường Kách mệnh" },
+      { "option": "C", "text": "Nhật ký trong tù" },
+      { "option": "D", "text": "Sửa đổi lối làm việc" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Ngày 19/5/1941, Hồ Chí Minh sáng lập ra tổ chức nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "Mặt trận Việt Minh" },
+      { "option": "B", "text": "Đội Việt Nam tuyên truyền giải phóng quân" },
+      { "option": "C", "text": "Việt Nam giải phóng quân" },
+      { "option": "D", "text": "Mặt trận Liên Việt" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Ngày 22/12/1944, theo sáng kiến Hồ Chí Minh, Việt Nam thành lập tổ chức nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "Đội Việt Nam tuyên truyền giải phóng quân" },
+      { "option": "B", "text": "Mặt trận Việt Minh" },
+      { "option": "C", "text": "Việt Nam giải phóng quân" },
+      { "option": "D", "text": "Mặt trận Liên Việt" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Khẩu hiệu \"Không có gì quý hơn độc lập, tự do\" được Hồ Chí Minh nêu ra trong thời gian nào?",
+    "answers": [
+      { "option": "A", "text": "17/7/1966" },
+      { "option": "B", "text": "15/7/1966" },
+      { "option": "C", "text": "16/7/1966" },
+      { "option": "D", "text": "14/7/1966" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nội dung nào sau đây thể hiện giá trị tư tưởng Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Đưa cách mạng giải phóng dân tộc Việt Nam đến thắng lợi và bắt đầu xây dựng một xã hội mới trên đất nước Việt Nam" },
+      { "option": "B", "text": "Trực tiếp chỉ đạo chiến dịch Việt Bắc giành thắng lợi" },
+      { "option": "C", "text": "Trực tiếp chỉ đạo cách mạng XHCN ở Việt Nam giành nhiều thành tựu" },
+      { "option": "D", "text": "Thúc đẩy cuộc kháng chiến ở miền Nam nhanh kết thúc" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nội dung nào sau đây không thể hiện giá trị tư tưởng Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Trực tiếp chỉ đạo cách mạng XHCN ở Việt Nam giành nhiều thành tựu" },
+      { "option": "B", "text": "Là nền tảng tư tưởng và kim chỉ nam cho cách mạng Việt Nam" },
+      { "option": "C", "text": "Góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc gắn liền với sự tiến bộ xã hội" },
+      { "option": "D", "text": "Góp phần tích cực vào cuộc đấu tranh vì độc lập dân tộc, dân chủ, hòa bình, hợp tác và phát triển trên thế giới" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Câu \"…Chủ trương làm tư sản dân quyền cách mạnh và thổ địa cách mạng để đi tới xã hội Cộng sản\" được trích từ tài liệu nào của Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Chính cương vắn tắt" },
+      { "option": "B", "text": "Sách lược vắn tắt" },
+      { "option": "C", "text": "Chương trình tóm tắt" },
+      { "option": "D", "text": "Điều lệ vắn tắt" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "\"Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do\". Câu văn này trích trong văn bản nào sau đây của Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Tuyên ngôn độc lập" },
+      { "option": "B", "text": "Bản án chế độ thực dân Pháp" },
+      { "option": "C", "text": "Đường Kách mệnh" },
+      { "option": "D", "text": "Lời kêu gọi toàn quốc kháng chiến" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nguyễn Ái Quốc tham gia phong trào chống thuế ở Trung Kỳ năm nào?",
+    "answers": [
+      { "option": "A", "text": "1908" },
+      { "option": "B", "text": "1906" },
+      { "option": "C", "text": "1909" },
+      { "option": "D", "text": "1910" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nội dung nào sau đây không nằm trong nội dung tư tưởng Hồ Chí Minh về độc lập dân tộc?",
+    "answers": [
+      { "option": "A", "text": "Độc lập dân tộc gắn liền với việc mở rộng quan hệ đối ngoại" },
+      { "option": "B", "text": "Độc lập dân tộc phải gắn liền với tự do, hạnh phúc của nhân dân" },
+      { "option": "C", "text": "Độc lập dân tộc phải là nền độc lập thật sự, hoàn toàn và triệt để" },
+      { "option": "D", "text": "Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, đặc trưng cơ bản của xã hội xã hội chủ nghĩa gồm mấy đặc trưng?",
     "answers": [
       { "option": "A", "text": "4" },
-      { "option": "B", "text": "5" },
-      { "option": "C", "text": "6" },
-      { "option": "D", "text": "7" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Tập hợp những cộng đồng người hình thành, phát triển theo các nghề nghiệp khác nhau là kết quả của sự phát triển sản xuất, phân công lao động, là nội dung thể hiện khái niệm nào dưới đây?",
-    "answers": [
-      { "option": "A", "text": "Cơ cấu xã hội – giai cấp" },
-      { "option": "B", "text": "Cơ cấu xã hội – nghề nghiệp" },
-      { "option": "C", "text": "Cơ cấu xã hội – dân cư" },
-      { "option": "D", "text": "Cơ cấu xã hội – kinh tế" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau giữa các cộng đồng ấy tạo nên là nội dung thể hiện khái niệm nào dưới đây?",
-    "answers": [
-      { "option": "A", "text": "Cơ cấu xã hội" },
-      { "option": "B", "text": "Dân tộc" },
-      { "option": "C", "text": "Cộng đồng" },
-      { "option": "D", "text": "Làng xã" }
-    ],
-    "correct": "A"
-  },
-  {
-    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay, giai cấp, tầng lớp nào nào đang có xu hướng giảm về số lượng và tỉ lệ trong cơ cấu xã hội – giai cấp?",
-    "answers": [
-      { "option": "A", "text": "Tri thức" },
-      { "option": "B", "text": "Nông dân" },
-      { "option": "C", "text": "Công nhân" },
-      { "option": "D", "text": "Phong kiến" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Loại hình cơ cấu xã hội nào được xem là có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác?",
-    "answers": [
-      { "option": "A", "text": "Cơ cấu xã hội – tôn giáo" },
-      { "option": "B", "text": "Cơ cấu xã hội – nghề nghiệp" },
-      { "option": "C", "text": "Cơ cấu xã hội – dân tộc" },
-      { "option": "D", "text": "Cơ cấu xã hội – giai cấp" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Đâu không phải là qui luật biến đổi của cơ cấu xã hội – giai cấp trong thời ký quá độ lên chủ nghĩa xã hội",
-    "answers": [
-      { "option": "A", "text": "Sự biến đổi gắn liền và bị chi phối bởi cơ cấu kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội" },
-      { "option": "B", "text": "Sự biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp xã hội mới" },
-      { "option": "C", "text": "Sự biến đổi trong các mối quan hệ vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau" },
-      { "option": "D", "text": "Sự biến đổi làm cho các giai cấp, tầng lớp cũ mất đi" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Điền từ thích hợp vào chỗ trống: Cơ cấu xã hội – giai cấp biến đổi phức tạp, đa dạng, làm xuất hiện các… xã hội mới?",
-    "answers": [
-      { "option": "A", "text": "Giai cấp" },
-      { "option": "B", "text": "Tầng lớp" },
-      { "option": "C", "text": "Giai tầng" },
-      { "option": "D", "text": "Tổ chức" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Điền từ thích hợp vào chỗ trống: Cơ cấu xã hội – giai cấp biến đổi trong mối quan hệ vừa…, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau.",
-    "answers": [
-      { "option": "A", "text": "Hợp tác" },
-      { "option": "B", "text": "Đấu tranh" },
-      { "option": "C", "text": "Chuyển hóa" },
-      { "option": "D", "text": "Tác động" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Yếu tố nào sau đây quyết định sự liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức?",
-    "answers": [
-      { "option": "A", "text": "Mong muốn của giai cấp công nhân" },
-      { "option": "B", "text": "Cùng một kẻ thù là giai cấp tư sản" },
-      { "option": "C", "text": "Có những lợi ích cơ bản thống nhất với nhau" },
-      { "option": "D", "text": "Mục tiêu về chính trị của giai cấp công nhân" }
-    ],
-    "correct": "A"
-  },
-  {
-    "question": "Sự biến đổi loại hình cơ cấu xã hội nào sẽ ảnh hưởng đến sự biến đổi của các cơ cấu xã hội khác vào tác động đến sự biến đổi của toàn bộ cơ cấu xã hôi?",
-    "answers": [
-      { "option": "A", "text": "Cơ cấu xã hội – tôn giáo" },
-      { "option": "B", "text": "Cơ cấu xã hội – giai cấp" },
-      { "option": "C", "text": "Cơ cấu xã hội – nghề nghiệp" },
-      { "option": "D", "text": "Cơ cấu xã hội – dân tộc" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Theo Lênin, nếu giai cấp công nhân không liên minh với giai cấp, tầng lớp nào thì không thể có được chính quyền của giai cấp vô sản?",
-    "answers": [
-      { "option": "A", "text": "Tư sản" },
-      { "option": "B", "text": "Phong kiến" },
-      { "option": "C", "text": "Nông dân" },
-      { "option": "D", "text": "Trí thức" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Những giai cấp, tầng lớp nào thuộc cơ cấu xã hội – giai cấp Việt Nam thời kỳ quá độ lên chủ nghĩa xã hội?",
-    "answers": [
-      { "option": "A", "text": "Công nhân, Nông dân, đội ngũ tri thức, đội ngũ doanh nhân" },
-      { "option": "B", "text": "Công nhân, nông dân" },
-      { "option": "C", "text": "Công nhân, nông dân, tri thức" },
-      { "option": "D", "text": "Tư sản, công nhân, nông dân, tri thức" }
-    ],
-    "correct": "A"
-  },
-  {
-    "question": "Sự biến đổi cơ cấu xã hội – giai cấp thời kỳ quá độ ở nước ta vừa đảm bảo tính quy luật đặc thù, vừa phải đảm bảo tính chất nào?",
-    "answers": [
-      { "option": "A", "text": "Tính đặc thù" },
-      { "option": "B", "text": "Tính tập thể" },
-      { "option": "C", "text": "Tính cá nhân" },
-      { "option": "D", "text": "Tính vượt trước" }
-    ],
-    "correct": "A"
-  },
-  {
-    "question": "Ở nước ta, trong thời kỳ quá độ, giai cấp, tầng lớp nào sau đây có vai trò quan trọng đặc biệt, giữ vai trò lãnh đạo cách mạng, thông qua đội tiền phong của mình là Đảng cộng sản?",
-    "answers": [
-      { "option": "A", "text": "Nông dân" },
-      { "option": "B", "text": "Công nhân" },
-      { "option": "C", "text": "Tư sản" },
-      { "option": "D", "text": "Trí thức" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Lực lượng nào dưới đây được Đảng ta coi là lực lượng đặc biệt và chủ trương xây dựng thành lực lượng vững mạnh?",
-    "answers": [
-      { "option": "A", "text": "Trí thức" },
-      { "option": "B", "text": "Công nhân" },
-      { "option": "C", "text": "Thanh niên" },
-      { "option": "D", "text": "Doanh nhân" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Trong thời kỳ quá độ lên CNXH, nhiệm vụ trung tâm của giai cáp công nhân là gì?",
-    "answers": [
-      { "option": "A", "text": "Phát triển kinh tế, tiến hành công nghiệp hóa, hiện đại hóa" },
-      { "option": "B", "text": "Đẩy mạnh sản xuất công nghiệp nặng" },
-      { "option": "C", "text": "Nâng cao trình độ học vấn" },
-      { "option": "D", "text": "Giác ngộ ý thức chính trị" }
-    ],
-    "correct": "A"
-  },
-  {
-    "question": "Trong sự biến đổi của cơ cấu xã hội – giai cấp, giai cấp nào sau đây được khẳng định là có vị trí chiến lược trong sự nghiệp công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn?",
-    "answers": [
-      { "option": "A", "text": "Công nhân" },
-      { "option": "B", "text": "Ngư dân" },
-      { "option": "C", "text": "Nông dân" },
-      { "option": "D", "text": "Diêm dân" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Trong kết cấu xã hội – giai cấp ở Việt Nam, giai cấp, tầng lớp nào được xem là lực lượng lao động sáng tạo đặc biệt?",
-    "answers": [
-      { "option": "A", "text": "Tư sản" },
-      { "option": "B", "text": "Trí thức" },
-      { "option": "C", "text": "Công nhân" },
-      { "option": "D", "text": "Nông dân" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Trong thời kỳ quá độ lên CNXH, giai cấp, tầng lớp nào có xu hướng giảm dần về số lượng và tỉ lệ trong cơ cấu xã hội?",
-    "answers": [
-      { "option": "A", "text": "Tư sản" },
-      { "option": "B", "text": "Trí thức" },
-      { "option": "C", "text": "Công nhân" },
-      { "option": "D", "text": "Nông dân" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Trong các nội dung của minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNHX ở Việt Nam, nội dung nào được xem là cơ bản và quyết định?",
-    "answers": [
-      { "option": "A", "text": "Nội dung kinh tế" },
-      { "option": "B", "text": "Nội dung chính trị" },
-      { "option": "C", "text": "Nội dung văn hóa" },
-      { "option": "D", "text": "Nội dung xã hội" }
-    ],
-    "correct": "A"
-  },
-  {
-    "question": "Có mấy phương hướng cơ bản để xây dựng cơ cấu xã hội – giai cấp và tăng cường liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH ở Việt Nam?",
-    "answers": [
-      { "option": "A", "text": "3" },
-      { "option": "B", "text": "4" },
+      { "option": "B", "text": "3" },
       { "option": "C", "text": "5" },
       { "option": "D", "text": "6" }
     ],
-    "correct": "C"
+    "correct": "A"
   },
   {
-    "question": "Đâu không phải là đặc trưng của dân tộc hiểu theo nghĩa rộng?",
+    "question": "Theo quan điểm của Hồ Chí Minh: cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng nào?",
     "answers": [
-      { "option": "A", "text": "Có chung một vùng lãnh thổ nhất định" },
-      { "option": "B", "text": "Có chung một phương thức sinh hoạt kinh tế" },
-      { "option": "C", "text": "Có chung một loại tiền tệ để thanh toán" },
-      { "option": "D", "text": "Có chung một ngôn ngữ làm công cụ giao tiếp" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Đặc trưng nào được xem là quan trọng nhất của dân tộc, là cơ sở gắn kết các bộ phận, các thành viên trong dân tộc, tạo nên tính thống nhất, bền vững của dân tộc?",
-    "answers": [
-      { "option": "A", "text": "Có chung một nhà nước" },
-      { "option": "B", "text": "Có chung một phương thức sinh hoạt kinh tế" },
-      { "option": "C", "text": "Có chung một nền văn hóa và tâm lý" },
-      { "option": "D", "text": "Có chung một vùng lãnh thổ nhất định" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Một trong những quan điểm cơ bản của Đảng ta về vấn đề dân tộc là “Công tác dân tộc và thực hiện chính sách dân tộc là nhiệm vụ của toàn Đảng, toàn dân, toàn quân, của các cấp, các ngành, của toàn bộ …”. Hãy điền vào các chỗ trống từ hoặc cụm từ thích hợp?",
-    "answers": [
-      { "option": "A", "text": "Cơ quan nhà nước" },
-      { "option": "B", "text": "Hệ thống pháp luật" },
-      { "option": "C", "text": "Hệ thống chính trị" },
-      { "option": "D", "text": "Nhân dân" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Đại hội XII của Đảng cộng sản Việt Nam khẳng định \"Đoàn kết các dân tộc có vị trí … trong sự nghiệp cách mạng của nước ta”. Hãy điền vào các chỗ trống từ hoặc cụm từ thích hợp?",
-    "answers": [
-      { "option": "A", "text": "Quan trọng" },
-      { "option": "B", "text": "Chiến lược" },
-      { "option": "C", "text": "Lâu dài" },
-      { "option": "D", "text": "Hàng đầu" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Chủ nghĩa Mác – Lênin nhắc đến mấy xu hướng khách quan của sự phát triển quan hệ dân tộc?",
-    "answers": [
-      { "option": "A", "text": "3" },
-      { "option": "B", "text": "4" },
-      { "option": "C", "text": "6" },
-      { "option": "D", "text": "2" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Đâu là tiêu quan trọng nhất để phân biệt một tộc người?",
-    "answers": [
-      { "option": "A", "text": "Ngôn ngữ" },
-      { "option": "B", "text": "Văn hóa" },
-      { "option": "C", "text": "Ý thức tộc người" },
-      { "option": "D", "text": "Phương thức canh tác" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Sự phát triển của phương thức sản xuất Châu Á, của chế độ sở hữu công cộng về ruộng đất là yếu tố quyết định nhất dẫn đến sự ra đời của các dân tộc ở?",
-    "answers": [
-      { "option": "A", "text": "Phương Đông" },
-      { "option": "B", "text": "Đông Bắc Á" },
-      { "option": "C", "text": "Đông Nam Á" },
-      { "option": "D", "text": "Tây Á" }
+      { "option": "A", "text": "Cách mạng vô sản" },
+      { "option": "B", "text": "Cách mạng tư sản" },
+      { "option": "C", "text": "Cách mạng XHCN" },
+      { "option": "D", "text": "Đấu tranh theo xu hướng dân chủ tư sản" }
     ],
     "correct": "A"
   },
   {
-    "question": "Sự ra đời của dân tộc chủ yếu do tác động của các yếu tố kinh tế, chính trị, văn hóa từ bên ngoài, yếu tố tộc người mờ nhạt là nội dung thể hiện sự ra đời của các dân tộc ở?",
+    "question": "\"Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy\". Đoạn văn trên trích từ tác phẩm nào của Hồ Chí Minh?",
     "answers": [
-      { "option": "A", "text": "Châu Âu" },
-      { "option": "B", "text": "Châu Á" },
-      { "option": "C", "text": "Châu Phi" },
-      { "option": "D", "text": "Châu Mĩ" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Theo chủ tịch Hồ Chí Minh, con đường duy nhất để dân tộc Việt Nam giành được độc lập, nhân dân Việt Nam được tự do là?",
-    "answers": [
-      { "option": "A", "text": "Cách mạng giải phóng dân tộc" },
-      { "option": "B", "text": "Cách mạng vô sản" },
-      { "option": "C", "text": "Cách mạng tư sản" },
-      { "option": "D", "text": "Đấu tranh giai cấp" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Đảng Cộng sản Việt Nam xác định rõ “Vấn đề dân tộc và đoàn kết các dân tộc luôn luôn có vị trí chiến lược trong sự nghiệp các mạng” tại đại hội nào?",
-    "answers": [
-      { "option": "A", "text": "Đại hội IX" },
-      { "option": "B", "text": "Đại hội X" },
-      { "option": "C", "text": "Đại hội XI" },
-      { "option": "D", "text": "Đại hội XII" }
+      { "option": "A", "text": "Tuyên ngôn độc lập" },
+      { "option": "B", "text": "Thư kêu gọi Tổng khởi nghĩa" },
+      { "option": "C", "text": "Lời kêu gọi toàn quốc kháng chiến" },
+      { "option": "D", "text": "Thư gửi đồng bào Nam Bộ" }
     ],
     "correct": "A"
   },
   {
-    "question": "Khả năng phản ánh nào được xem là phản ánh đặc trưng của tôn giáo?",
+    "question": "Nội dung nào sau đây không nằm trong nội dung tư tưởng Hồ Chí Minh về cách mạng giải phóng dân tộc?",
     "answers": [
-      { "option": "A", "text": "Phản ánh hư ảo" },
-      { "option": "B", "text": "Phản ánh chân thực" },
-      { "option": "C", "text": "Phản ánh mê muội" },
-      { "option": "D", "text": "Phản ánh khoa học" }
+      { "option": "A", "text": "Con đường giải phóng dân tộc phải được tiến hành bằng phương pháp bạo động cách mạng" },
+      { "option": "B", "text": "Cách mạng giải phóng dân tộc cần chủ động, sáng tạo, có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc" },
+      { "option": "C", "text": "Cách mạng giải phóng dân tộc phải dựa trên lực lượng đại đoàn kết dân tộc, lấy liên minh công - nông làm nền tảng" },
+      { "option": "D", "text": "Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản." }
     ],
     "correct": "A"
   },
   {
-    "question": "Đâu không phải là đặc điểm của tôn giáo ở Việt Nam?",
+    "question": "Theo tư tưởng Hồ Chí Minh, đặc trưng cơ bản của xã hội xã hội chủ nghĩa gồm những đặc trưng nào?",
     "answers": [
-      { "option": "A", "text": "Các tôn giáo đa dạng, đan xen, chung sống hòa bình và không có xung đột, chiến tranh tôn giáo" },
-      { "option": "B", "text": "Tín đồ các tôn giáo Việt Nam phần lớn là nhân dân lao động, có lòng yêu nước, tinh thần dân tộc" },
-      { "option": "C", "text": "Không có quan hệ với các tổ chức, tôn giáo nước ngoài" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "“Niềm tin mê muội, viển vông, không dựa trên cơ sở khoa học nào” thuộc về khái niệm nào sau đây?",
-    "answers": [
-      { "option": "A", "text": "Tôn giáo" },
-      { "option": "B", "text": "Mê tín" },
-      { "option": "C", "text": "Tín ngưỡng" },
-      { "option": "D", "text": "Cuồng tín" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Sự sợ hãi trước những hiện tượng tự nhiên, xã hội, hay trong những lúc ốm đau, bệnh tật…là biểu hiện nguồn gốc nào của tôn giáo?",
-    "answers": [
-      { "option": "A", "text": "Nguồn gốc tự nhiên, kinh tế- xã hội" },
-      { "option": "B", "text": "Nguồn gốc nhận thức" },
-      { "option": "C", "text": "Nguồn gốc tâm lý" },
-      { "option": "D", "text": "Nguồn gốc khoa học" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Đâu là nhân tố quyết định sự tồn tại và phát triển của các hình thái ý thức xã hội, trong đó có tôn giáo?",
-    "answers": [
-      { "option": "A", "text": "Giai cấp thống trị" },
-      { "option": "B", "text": "Trình độ nhận thức của con người" },
-      { "option": "C", "text": "Sản xuất vật chất và các quan hệ kinh tế" },
-      { "option": "D", "text": "Trình độ văn hóa của thời đại" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Về phương diện thế giới quan, các tôn giáo mang thế giới quan nào sau đây?",
-    "answers": [
-      { "option": "A", "text": "Duy tâm" },
-      { "option": "B", "text": "Duy vật" },
-      { "option": "C", "text": "Nhị nguyên" },
-      { "option": "D", "text": "Thần bí" }
+      { "option": "A", "text": "(1) Về chính trị (2) Về kinh tế (3) Về văn hóa, đạo đức và các quan hệ xã hội (4) Về chủ thể xây dựng CNXH" },
+      { "option": "B", "text": "(1) Về xã hội (2) Về kinh tế (3) Về văn hóa, đạo đức và các quan hệ xã hội (4) Về chủ thể xây dựng CNXH" },
+      { "option": "C", "text": "(1) Về chính trị (2) Về CNH-HĐH (3) Về văn hóa, đạo đức và các quan hệ xã hội (4) Về chủ thể xây dựng CNXH" },
+      { "option": "D", "text": "(1) Về chính trị (2) Về kinh tế (3) Về văn hóa, đạo đức và các quan hệ xã hội (4) Về giáo dục" }
     ],
     "correct": "A"
   },
   {
-    "question": "Khi mà khoảng cách giữa “biết” với “chưa biết” vẫn tồn tại, khi mà những điều mà khoa học chưa giải thích được, thì điều đó thường được giải thích qua lăng kính tôn giáo. Đó là biểu hiện nguồn gốc nào của tôn giáo?",
+    "question": "Theo tư tưởng Hồ Chí Minh, xã hội XHCN có nền kinh tế như thế nào?",
     "answers": [
-      { "option": "A", "text": "Nguồn gốc tự nhiên, kinh tế- xã hội" },
-      { "option": "B", "text": "Nguồn gốc nhận thức" },
-      { "option": "C", "text": "Nguồn gốc tâm lý" },
-      { "option": "D", "text": "Nguồn gốc khoa học" }
+      { "option": "A", "text": "Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu" },
+      { "option": "B", "text": "Có nền kinh tế phát triển, dựa trên lực lượng sản xuất hiện đại" },
+      { "option": "C", "text": "Có nền kinh tế phát triển hài hòa công nghiệp là chủ yếu" },
+      { "option": "D", "text": "Có nền kinh tế phát triển mạnh, công nghiệp-nông nghiệp là chủ yếu" }
     ],
-    "correct": "B"
+    "correct": "A"
   },
   {
-    "question": "Chỉ rõ bản chất của tôn giáo, chủ nghĩa Mác – Lênin đã khẳng định “Tôn giáo là một hiện tượng xã hội – văn hóa do … sáng tạo ra”. Hãy điền vào các chỗ trống từ hoặc cụm từ thích hợp?",
+    "question": "Theo tư tưởng Hồ Chí Minh, chủ thể của xã hội XHCN là ai?",
+    "answers": [
+      { "option": "A", "text": "Là công trình tập thể của nhân dân dưới sự lãnh đạo của Đảng cộng sản" },
+      { "option": "B", "text": "Là công trình tập thể của giai cấp nông dân dưới sự lãnh đạo của Đảng cộng sản" },
+      { "option": "C", "text": "Là công trình tập thể của thanh niên dưới sự lãnh đạo của Đảng cộng sản" },
+      { "option": "D", "text": "Là công trình của giai cấp công nhân dưới sự lãnh đạo của Đảng cộng sản" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, tính chất của thời kỳ quá độ ở Việt Nam như thế nào?",
+    "answers": [
+      { "option": "A", "text": "Là thời kỳ cải biến sâu sắc nhất nhưng phức tạp, lâu dài, khó khăn, gian khổ" },
+      { "option": "B", "text": "Là thời kỳ cải biến sâu sắc nhưng không quá phức tạp, khó khăn, gian khổ" },
+      { "option": "C", "text": "Là thời kỳ cải biến sâu sắc nhưng với nhiều thuận lợi, cơ hội" },
+      { "option": "D", "text": "Là thời kỳ cải biến với nhiều chặng đường liên tiếp, nhiều tác động từ bên ngoài" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, đặc điểm lớn nhất của thời kỳ quá độ lên CNXH ở Việt Nam như thế nào?",
+    "answers": [
+      { "option": "A", "text": "Từ một nước nông nghiệp lạc hậu tiến thẳng lên CNXH, không trải qua giai đoạn phát triển TBCN" },
+      { "option": "B", "text": "Từ một nước có nền kinh tế nghèo nàn, lạc hậu tiến thẳng lên CNXH, phải trải qua thời kỳ CNH-HĐH" },
+      { "option": "C", "text": "Từ một nền kinh tế kế hoạch hóa, tập trung bao cấp, chuyển lên kinh tế thị trường định hướng XHCN" },
+      { "option": "D", "text": "Từ một nước có nền kinh tế nông nghiệp lạc hậu chuyển sang nền kinh tế có công nghiệp hiện đại" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, nhiệm vụ của thời kỳ quá độ lên CNXH là đấu tranh cải tạo, xóa bỏ tàn tích của chế độ cũ, xây dựng các yếu tố mới trên tất cả các lĩnh vực của đời sống. Đó là những lĩnh vực nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "(1) Về chính trị (2) Về kinh tế (3) Về văn hóa (4) Về các quan hệ xã hội" },
+      { "option": "B", "text": "(1) Về chính trị (2) Về kinh tế (3) Về văn hóa (4) Về an ninh quốc phòng" },
+      { "option": "C", "text": "(1) Về chính trị (2) Về kinh tế (3) Về văn hóa (4) Về đối ngoại" },
+      { "option": "D", "text": "(1) Về chính trị (2) Về kinh tế (3) Về văn hóa (4) Về giáo dục" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, trong thời kỳ quá độ lên CNXH ở Việt Nam, Việt Nam phải đảm bảo những nguyên tắc nào?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Phải giữ vững độc lập dân tộc" },
+      { "option": "C", "text": "Phải đoàn kết, học tập kinh nghiệm của các nước anh em" },
+      { "option": "D", "text": "Xây phải đi đôi với chống" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là luận điểm đúng nhất với tư tưởng Hồ Chí Minh về nguyên tắc xây dựng chủ nghĩa xã hội?",
+    "answers": [
+      { "option": "A", "text": "Giữ vững độc lập dân tộc" },
+      { "option": "B", "text": "Giữ vững đường lối" },
+      { "option": "C", "text": "Phát triển kinh tế và văn hóa" },
+      { "option": "D", "text": "Quan tâm đến đời sống nhân dân" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là luận điểm đúng nhất với tư tưởng Hồ Chí Minh về nguyên tắc xây dựng chủ nghĩa xã hội?",
+    "answers": [
+      { "option": "A", "text": "Phải đoàn kết, học tập kinh nghiệm của các nước anh em" },
+      { "option": "B", "text": "Phát triển kinh tế và văn hóa" },
+      { "option": "C", "text": "Nâng cao dân trí" },
+      { "option": "D", "text": "Tăng cường đoàn kết quốc tế" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo Hồ Chí Minh, động lực quyết định nhất của chủ nghĩa xã hội là gì?",
     "answers": [
       { "option": "A", "text": "Con người" },
-      { "option": "B", "text": "Thần linh" },
-      { "option": "C", "text": "Giai cấp thống trị" },
-      { "option": "D", "text": "Nhân dân" }
+      { "option": "B", "text": "Chính trị" },
+      { "option": "C", "text": "Khoa học kỹ thuật" },
+      { "option": "D", "text": "Sự giúp đỡ quốc tế" }
     ],
     "correct": "A"
   },
   {
-    "question": "\"Lo sợ trước sự thống trị của các lực lượng xã hội, con người trông chờ vào sự giải phóng của một lực lượng siêu nhiên ngoài trần thế\" là nội dung thế hiện nguồn gốc nào của tôn giáo?",
+    "question": "Hồ Chí Minh có nhận định: \"Trước hết phải có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi. Đảng có vững, cách mạng mới thành công, cũng như người cầm lái có vững thuyền mới chạy\" Nhận định này khẳng định nội dung nào sau đây?",
     "answers": [
-      { "option": "A", "text": "Nguồn gốc tự nhiên, kinh tế- xã hội" },
-      { "option": "B", "text": "Nguồn gốc tâm lý" },
-      { "option": "C", "text": "Nguồn gốc nhận thức" },
-      { "option": "D", "text": "Nguồn gốc tâm lý và nhận thức" }
+      { "option": "A", "text": "Vai trò lãnh đạo của Đảng cộng sản" },
+      { "option": "B", "text": "Vai trò của cách mạng" },
+      { "option": "C", "text": "Vai trò của quần chúng nhân dân" },
+      { "option": "D", "text": "Ý nghĩa của công tác tuyên truyền" }
     ],
     "correct": "A"
   },
   {
-    "question": "Khi các điều kiện kinh tế- xã hội, lịch sử thay đổi, tôn giáo cũng có sự thay đổi theo, nội dung này thể hiện tính chất nào của tôn giáo?",
+    "question": "Đâu là những nguyên tắc xây dựng Đảng Cộng sản Việt Nam theo tư tưởng Hồ Chí Minh?",
     "answers": [
-      { "option": "A", "text": "Tính lịch sử" },
-      { "option": "B", "text": "Tính quần chúng" },
-      { "option": "C", "text": "Tính chính trị" },
-      { "option": "D", "text": "Tính xã hội" }
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Đảng lấy chủ nghĩa Mác-Lê nin làm nền tảng tư tưởng và kim chỉ nam cho hành động" },
+      { "option": "C", "text": "Tự phê bình và phê bình" },
+      { "option": "D", "text": "Tập trung dân chủ" }
     ],
     "correct": "A"
   },
   {
-    "question": "“Một hình thức cộng đồng xã hội đặc biệt, được hình thành, duy trì và củng cố chủ yếu dựa trên cơ sở hôn nhân, quan hệ huyết thống, và quan hệ nuôi dưỡng, cùng với những qui định về quyền và nghĩa vụ của các thành viên trong gia đình”. Đây là khái niệm về?",
+    "question": "Chọn câu trả lời đúng nhất theo tư tưởng Hồ Chí Minh?",
     "answers": [
-      { "option": "A", "text": "Dòng họ" },
-      { "option": "B", "text": "Dân tộc" },
-      { "option": "C", "text": "Thị tộc" },
-      { "option": "D", "text": "Gia đình" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Trong các quan hệ sau đây, quan hệ nào là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
-    "answers": [
-      { "option": "A", "text": "Quan hệ hôn nhân" },
-      { "option": "B", "text": "Quan hệ huyết thống" },
-      { "option": "C", "text": "Quan hệ kinh tế" },
-      { "option": "D", "text": "Quan hệ nuôi dưỡng" }
+      { "option": "A", "text": "Đảng Cộng sản Việt Nam vừa là thành viên, vừa là lực lượng lãnh đaọ Mặt trận" },
+      { "option": "B", "text": "Đảng cộng sản không có mối quan hệ với Mặt trận" },
+      { "option": "C", "text": "Đảng Cộng sản Việt Nam là một thành viên của Mặt trận dân tộc thống nhất" },
+      { "option": "D", "text": "Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Mặt trận" }
     ],
     "correct": "A"
   },
   {
-    "question": "Nội dung nào không thể hiện vị trí của gia đình trong xã hội?",
+    "question": "Chọn phương án đúng với tư tưởng Hồ Chí Minh về nguyên tắc xây dựng Đảng Cộng sản Việt Nam?",
     "answers": [
-      { "option": "A", "text": "Là tế bào của xã hội" },
-      { "option": "B", "text": "Là tổ ấm, mang lại các giá trị hạnh phúc, sự hài hòa trong đời sống cá nhân của mỗi thành viên" },
-      { "option": "C", "text": "Là cầu nối giữa cá nhân với xã hội" },
-      { "option": "D", "text": "Là trung tâm của xã hội" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "\"Sự yên ổn, hạnh phúc của mỗi gia đình là tiền đề, điều kiện quan trọng cho sự hình thành, phát triển nhân cách, trí lực, thể lực để trở thành công dân tốt cho xã hội\", nội dung này thể hiện vị trí nào của gia đình?",
-    "answers": [
-      { "option": "A", "text": "Là tế bào của xã hội" },
-      { "option": "B", "text": "Là tổ ấm, mang lại các giá trị hạnh phúc, sự hài hòa trong đời sống cá nhân của mỗi thành viên" },
-      { "option": "C", "text": "Là cầu nối giữa các nhân và xã hội" },
-      { "option": "D", "text": "Là trung tâm của xã hội" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Điền vào chỗ trống từ, cụm từ còn thiếu trong định nghĩa về gia đình. “Gia đình là một hình thức cộng đồng xã hội đặc biệt, được hình thành, duy trì và củng cố chủ yếu dựa trên cơ sở …, quan hệ … và quan hệ nuôi dưỡng, cùng với những qui định về quyền và nghĩa vụ của các thành viên trong gia đình",
-    "answers": [
-      { "option": "A", "text": "Hôn nhân, huyết thống" },
-      { "option": "B", "text": "Hôn nhân, chăm sóc" },
-      { "option": "C", "text": "Hôn nhân, giáo dục" },
-      { "option": "D", "text": "Bình đẳng, tôn trọng" }
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Tự phê bình và phê bình" },
+      { "option": "C", "text": "Tập trung dân chủ" },
+      { "option": "D", "text": "Kỷ luật nghiêm minh, tự giác" }
     ],
     "correct": "A"
   },
   {
-    "question": "Chức năng thể hiện tình cảm thiêng liêng, trách nhiệm của cha mẹ với con cái; đồng thời thể hiện trách nhiệm của gia đình với xã hội. Đó là chức năng gì?",
+    "question": "Hồ Chí Minh nêu luận điểm: \"Đảng muốn vững thì phải có chủ nghĩa làm cốt, trong đảng ai cũng phải hiểu, ai cũng phải tuân theo chủ nghĩa ấy. Đảng mà không có chủ nghĩa cũng như người không có trí khôn, tàu không có bàn chỉ nam\" để khẳng định nội dung nào sau đây?",
     "answers": [
-      { "option": "A", "text": "Tái sản xuất ra con người" },
-      { "option": "B", "text": "Nuôi dưỡng, giáo dục" },
-      { "option": "C", "text": "Kinh tế và tổ chức tiêu dùng" },
-      { "option": "D", "text": "Chính trị - xã hội" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Hãy điền từ, cụm từ thích hợp vào chỗ trống “Chừng nào, hôn nhân không được xây dựng trên cơ sở…thì chừng đó, trong hôn nhân, tình yêu, hạnh phúc gia đình sẽ bị hạn chế”",
-    "answers": [
-      { "option": "A", "text": "Chính trị" },
-      { "option": "B", "text": "Văn hóa" },
-      { "option": "C", "text": "Kinh tế" },
-      { "option": "D", "text": "Tình yêu" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Hãy điền từ, cụm từ thích hợp vào chỗ trống “Trong gia đình …, người chồng là trụ cột của gia đình, mọi quyền lực trong gia đình đều thuộc về người đàn ông. Người chồng là người chủ sở hữu tài sản của gia đình, người quyết định các công việc trong gia đình”?",
-    "answers": [
-      { "option": "A", "text": "Truyền thống" },
-      { "option": "B", "text": "Châu Âu" },
-      { "option": "C", "text": "Hiện đại" },
-      { "option": "D", "text": "Châu Á" }
+      { "option": "A", "text": "Đảng phải có nền tảng tư tưởng" },
+      { "option": "B", "text": "Đảng phải xây dựng tổ chức" },
+      { "option": "C", "text": "Đảng phải thường xuyên họp tăng cường đoàn kết" },
+      { "option": "D", "text": "Cả 3 đáp án đều sai" }
     ],
     "correct": "A"
   },
   {
-    "question": "Chức năng nào của gia đình, giúp gia đình đảm bảo nguồn sinh sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình?",
+    "question": "Theo Hồ Chí Minh, Đảng cộng sản Việt Nam phải thường xuyên tự chỉnh đốn, đổi mới về mặt nào?",
     "answers": [
-      { "option": "A", "text": "Tái sản xuất ra con người" },
-      { "option": "B", "text": "Nuôi dưỡng, giáo dục" },
-      { "option": "C", "text": "Kinh tế và tổ chức tiêu dùng" },
-      { "option": "D", "text": "Chính trị - xã hội" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Việc thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động, nhà nước xã hội chủ nghĩa là cơ sở nào để xâu dựng gia đình trong thời kỳ quá độ lên CNXH?",
-    "answers": [
-      { "option": "A", "text": "Cơ sở kinh tế - xã hội" },
-      { "option": "B", "text": "Cơ sở chính trị - xã hội" },
-      { "option": "C", "text": "Cơ sở văn hóa" },
-      { "option": "D", "text": "Cơ sở giáo dục" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Trong sự biến đổi hiện nay, gia đình Việt Nam hiện nay có thể coi là gì?",
-    "answers": [
-      { "option": "A", "text": "Gia đình hiện đại" },
-      { "option": "B", "text": "Gia đình hạt nhân" },
-      { "option": "C", "text": "Gia đình truyền thống" },
-      { "option": "D", "text": "Gia đình quá độ" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Nội dung nào sau đây không thể hiện sự biến đổi của gia đình Việt Nam hiện nay?",
-    "answers": [
-      { "option": "A", "text": "Gia đình hạt nhân là phổ biến" },
-      { "option": "B", "text": "Quy mô gia đình ngày càng nhỏ" },
-      { "option": "C", "text": "Bình đẳng nam – nữ được đề cao" },
-      { "option": "D", "text": "Cuộc sống riêng tư chưa được coi trọng" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Đâu không phải là mặt trái (hạn chế) của sự biến đổi gia đình Việt Nam hiện nay?",
-    "answers": [
-      { "option": "A", "text": "Ngăn cách không gian giữa các thành viên trong gia đình" },
-      { "option": "B", "text": "Thời gian dành cho gia đình ngày càng ít đi" },
-      { "option": "C", "text": "Giữ gìn, phát huy tốt các giá trị truyền thống của gia đình" },
-      { "option": "D", "text": "Các thành viên của gia đình ít quan tâm, lo lắng, giao tiếp với nhau" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Sự biến đổi chức năng tái sản xuất con người của gia đình dẫn đến biểu hiện dân số Việt Nam hiện nay như thế nào?",
-    "answers": [
-      { "option": "A", "text": "Tăng về số lượng" },
-      { "option": "B", "text": "Trẻ hóa" },
-      { "option": "C", "text": "Già hóa" },
-      { "option": "D", "text": "Dồi dào" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Xu hướng nào không thể hiện chức năng giáo dục của gia đình Việt Nam hiện nay?",
-    "answers": [
-      { "option": "A", "text": "Đầu tư tài chính cho con cái tăng lên" },
-      { "option": "B", "text": "Hướng đến giáo dục kiến thức khoa học hiện đại" },
-      { "option": "C", "text": "Vai trò giáo dục của các chủ thể trong gia đình giảm" },
-      { "option": "D", "text": "Các thành viên trong gia đình dành nhiều thời gian chăm sóc nhau hơn" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Nội dung nào sau đây thể hiện đầy đủ nhất về những hạn chế trong quan hệ vợ - chồng ở Việt Nam hiện nay?",
-    "answers": [
-      { "option": "A", "text": "Thiếu bình đẳng, vai trò của người phụ nữ chưa thực sự được thừa nhận" },
-      { "option": "B", "text": "Lỏng lẻo, thiếu bình đẳng trong quan hệ vợ chồng" },
-      { "option": "C", "text": "Vai trò của người phụ nữ chưa thực sự được thừa nhận" },
-      { "option": "D", "text": "Lỏng lẻo, tăng tỉ lệ li hôn, li thân, ngoại tình, chung sống không kết hôn" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Những yếu tố nào đang tác động mang tính thách thức tác động đến sự biến đổi của gia đình Việt Nam hiện nay?",
-    "answers": [
-      { "option": "A", "text": "Cơ chế thị trường" },
-      { "option": "B", "text": "Khoa học công nghệ" },
-      { "option": "C", "text": "Toàn cầu hóa" },
-      { "option": "D", "text": "Tất cả các ý trên" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Trong gia đình Việt Nam hiện nay, ngoài mô hình người đàn ông – người chồng làm chủ gia đình, còn tồn tại ít nhất mấy mô hình khác?",
-    "answers": [
-      { "option": "A", "text": "3" },
-      { "option": "B", "text": "2" },
-      { "option": "C", "text": "6" },
-      { "option": "D", "text": "1" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Người chồng là chủ tài sản của gia đình, quyết định mọi công việc quan trọng của gia đình là biểu hiện của kiểu gia đình nào?",
-    "answers": [
-      { "option": "A", "text": "Gia đình truyền thống" },
-      { "option": "B", "text": "Gia đình hiện đại" },
-      { "option": "C", "text": "Gia đình hạt nhân" },
-      { "option": "D", "text": "Tất cả các ý trên đều sai" }
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Tư tưởng" },
+      { "option": "C", "text": "Tổ chức" },
+      { "option": "D", "text": "Chính trị" }
     ],
     "correct": "A"
   },
   {
-    "question": "Ngày gia đình Việt Nam là ngày nào?",
+    "question": "Theo tư tưởng Hồ Chí Minh nội dung nào không nằm trong các nguyên tắc xây dựng Đảng Cộng sản Việt Nam?",
     "answers": [
-      { "option": "A", "text": "26/6" },
-      { "option": "B", "text": "28/6" },
-      { "option": "C", "text": "26/8" },
-      { "option": "D", "text": "20/6" }
+      { "option": "A", "text": "Số lượng Đảng viên đông" },
+      { "option": "B", "text": "Nguyên tắc kỷ luật nghiêm minh, tự giác" },
+      { "option": "C", "text": "Đoàn kết thống nhất trong Đảng" },
+      { "option": "D", "text": "Nguyên tắc tự phê bình và phê bình" }
     ],
-    "correct": "B"
+    "correct": "A"
+  },
+  {
+    "question": "Quan điểm: \"Đảng ta là đạo đức, là văn minh\" được Hồ Chí Minh trình bày trong văn kiện nào sau đây? (Tìm đáp án đúng nhất)",
+    "answers": [
+      { "option": "A", "text": "Bài nói tại lễ kỷ niệm 30 năm ngày thành lập Đảng" },
+      { "option": "B", "text": "Báo cáo chinh trị tại đại hội toàn quốc lần II của Đảng" },
+      { "option": "C", "text": "Sách lược vắn tắt của Đảng" },
+      { "option": "D", "text": "Diễn văn khai mạc Đại hội đại biểu toàn quốc lần thứ III của Đảng" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Hồ Chí Minh đề cập đạo đức trong những mối quan hệ nào của con người?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Đối với người" },
+      { "option": "C", "text": "Đối với việc" },
+      { "option": "D", "text": "Đối với mình" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Để xây dựng đội ngũ cán bộ, đảng viên, Hồ Chí Minh không đề cập đến yêu cầu nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "Phải biết cách làm giàu" },
+      { "option": "B", "text": "Phải luôn tu dưỡng, rèn luyện, trau dồi đạo đức cách mạng" },
+      { "option": "C", "text": "Phải tuyệt đối trung thành với Đảng" },
+      { "option": "D", "text": "Phải luôn chịu trách nhiệm, năng động, sáng tạo" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Quan điểm nào sau đây không phải của Hồ Chí Minh bàn về nhà nước dân chủ?",
+    "answers": [
+      { "option": "A", "text": "Nhà nước bảo vệ lợi ích giai cấp tư sản" },
+      { "option": "B", "text": "Nhà nước do nhân dân" },
+      { "option": "C", "text": "Nhà nước vì nhân dân" },
+      { "option": "D", "text": "Nhà nước của nhân dân" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu không phải là quan điểm của Hồ Chí Minh về bản chất giai cấp của nhà nước?",
+    "answers": [
+      { "option": "A", "text": "Thực hiện chế độ tam quyền phân lập" },
+      { "option": "B", "text": "Thể hiện ở định hướng xã hội chủ nghĩa trong sự phát triển của đất nước" },
+      { "option": "C", "text": "Đảng Cộng sản giữ vị trí và vai trò cầm quyền" },
+      { "option": "D", "text": "Nguyên tắc tập trung dân chủ là nguyên tắc tổ chức và hoạt động cơ bản" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là những nội dung tư tưởng chủ yếu của Hồ Chí Minh về nhà nước của nhân dân?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Nhân dân có quyền kiểm soát, phê bình nhà nước, có quyền bãi miễn những đại biểu mà họ đã lựa chọn" },
+      { "option": "C", "text": "Luật pháp dân chủ và là công cụ quyền lực của nhân dân" },
+      { "option": "D", "text": "Quyền lực của nhà nước là \"thừa ủy quyền của nhân dân\"" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là những nội dung tư tưởng của Hồ Chí Minh về nhà nước do nhân dân?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Nhà nước do nhân dân tạo ra và tham gia quản lý" },
+      { "option": "C", "text": "Nhà nước do nhân dân hi sinh xương máu để lập ra" },
+      { "option": "D", "text": "Nhà nước do dân đóng thuế để NN chi tiêu, hoạt động" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là quan điểm của Hồ Chí Minh về xây dựng nhà nước pháp quyền?",
+    "answers": [
+      { "option": "A", "text": "Nhà nước pháp quyền nhân nghĩa" },
+      { "option": "B", "text": "Nhà nước dùng đức trị để quản lý" },
+      { "option": "C", "text": "Nhà nước thực hiện kiểm soát các tổ chức chính trị xã hội" },
+      { "option": "D", "text": "Nhà nước hoạt động riêng, độc lập không nằm trong sự lãnh đạo của Đảng cộng sản" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là quan điểm của Hồ Chí Minh về phòng chống tiêu cực trong nhà nước?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Chống tham ô, lãng phí, quan liêu" },
+      { "option": "C", "text": "Chống tư túng, chia rẽ, kiêu ngạo" },
+      { "option": "D", "text": "Chống đặc quyền, đặc lợi" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo quan điểm của Hồ Chí Minh, Nhà nước hợp hiến, hợp pháp là nhà nước như thế nào?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Là Nhà nước được xây dựng trên cơ sở bản hiến pháp dân chủ thể theo ý nguyện của nhân dân" },
+      { "option": "C", "text": "Là Nhà nước do dân bầu ra" },
+      { "option": "D", "text": "Là Nhà nước được nhân dân ủng hộ" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Lựa chọn quan điểm đúng nhất của Hồ Chí Minh về nhà nước trong sạch, vững mạnh trong các nội dung sau?",
+    "answers": [
+      { "option": "A", "text": "Phòng, chống tiêu cực trong nhà nước" },
+      { "option": "B", "text": "Xây dựng nhà nước hợp hiến, hợp pháp" },
+      { "option": "C", "text": "Quản lý đất nước bằng giáo dục truyền thống" },
+      { "option": "D", "text": "Pháp luật khuyến thiện" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo quan điểm Hồ Chí Minh, để phòng chống tiêu cực trong Nhà nước, cần đề phòng và khắc phục những tiêu cực nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Tư túng, chia rẽ, kiêu ngạo" },
+      { "option": "C", "text": "Kéo bè kết cánh" },
+      { "option": "D", "text": "Đặc quyền, đặc lợi" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Hồ Chí Minh coi biểu hiện tiêu cực nào của Nhà nước là \"giặc nội xâm\" \"nguy hiểm hơn giặc ngoại xâm\"?",
+    "answers": [
+      { "option": "A", "text": "Tham ô, lãng phí, quan liêu" },
+      { "option": "B", "text": "Đặc quyền, đặc lợi" },
+      { "option": "C", "text": "Tư túng, chia rẽ, kiêu ngạo" },
+      { "option": "D", "text": "Cả 3 đáp án" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Chọn đáp án đúng nhất theo tư tưởng Hồ Chí Minh về vai trò của đại đoàn kết toàn dân tộc?",
+    "answers": [
+      { "option": "A", "text": "Là vấn đề có ý nghĩa chiến lược, quyết định thành công của cách mạng" },
+      { "option": "B", "text": "Đại đoàn kết toàn dân tộc là vấn đề thường xuyên biến đổi" },
+      { "option": "C", "text": "Là vấn đề không thể thiếu trong cuộc cách mạng giải phóng dân tộc" },
+      { "option": "D", "text": "Là vấn đề quyết định hàng đầu thắng lợi của cách mạng" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu không phải là điều kiện để xây dựng khối đại đoàn kết toàn dân tộc theo tư tưởng của Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Phải quy tụ những người cùng chung trình độ, nhận thức" },
+      { "option": "B", "text": "Kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc" },
+      { "option": "C", "text": "Phải có lòng khoan dung, độ lượng với con người." },
+      { "option": "D", "text": "Lấy lợi ích chung làm điểm quy tụ, đồng thời tôn trọng các lợi ích khác biệt chính đáng" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là những luận điểm của Hồ Chí Minh về điều kiện để xây dựng khối đại đoàn kết toàn dân tộc?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Phải khoan dung, độ lượng với con người" },
+      { "option": "C", "text": "Phải có niềm tin vào nhân dân" },
+      { "option": "D", "text": "Kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Chọn câu trả lời đúng nhất theo tư tưởng Hồ Chí Minh về Mặt trận dân tộc thống nhất.",
+    "answers": [
+      { "option": "A", "text": "Mặt trận dân tộc thống nhất là nơi quy tụ mọi tổ chức và cá nhân trong và ngoài nước" },
+      { "option": "B", "text": "Mặt trận dân tộc thống nhất là tổ chức của các tầng lớp nhân dân." },
+      { "option": "C", "text": "Mặt trận dân tộc thống nhất là tổ chức của các đảng phái, các đoàn thể, các nhân sĩ" },
+      { "option": "D", "text": "Mặt trận dân tộc thống nhất là tổ chức của giai cấp công nhân, nông dân và lao động trí óc" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Hình thức để quy tụ sức mạnh của khối đại đoàn kết toàn dân tộc là tổ chức nào?",
+    "answers": [
+      { "option": "A", "text": "Mặt trận dân tộc thống nhất" },
+      { "option": "B", "text": "Đảng cộng sản Việt Nam" },
+      { "option": "C", "text": "Hội Liên hiệp phụ nữ Việt Nam" },
+      { "option": "D", "text": "Đoàn thanh niên cộng sản Hồ Chí Minh" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Mặt trận Việt Minh được thành lập năm nào?",
+    "answers": [
+      { "option": "A", "text": "1941" },
+      { "option": "B", "text": "1945" },
+      { "option": "C", "text": "1955" },
+      { "option": "D", "text": "1976" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nội dung nào sau đây không phải là phương thức xây dựng khối đại đoàn kết dân tộc theo tư tưởng của Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Thường xuyên tổ chức các hoạt động để tăng cường đoàn kết" },
+      { "option": "B", "text": "Thành lập đoàn thể, tổ chức quần chúng phù hợp với từng đối tượng để tập hợp quần chúng" },
+      { "option": "C", "text": "Làm tốt công tác vận động quần chúng" },
+      { "option": "D", "text": "Các đoàn thể, tổ chức quần chúng được tập hợp và đoàn kết trong mặt trận dân tộc thống nhất" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Chọn đáp án đúng nhất về sự cần thiết của đoàn kết quốc tế theo quan điểm của Hồ Chí Minh?",
+    "answers": [
+      { "option": "A", "text": "Nhằm kết hợp sức mạnh dân tộc với sức mạnh thời đại, tạo sức mạnh tổng hợp cho cách mạng" },
+      { "option": "B", "text": "Nhằm tranh thủ sự ủng hộ của bạn bè thế giới trong cách mạng giải phóng dân tộc" },
+      { "option": "C", "text": "Cách mạng Việt Nam là một bộ phận của cách mạng thế giới" },
+      { "option": "D", "text": "Thực hiện chủ trương hội nhập quốc tế" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, lực lượng đoàn kết quốc tế không bao gồm những lực lượng nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "Phong trào không liên kết" },
+      { "option": "B", "text": "Phong trào đấu tranh giành độc lập dân tộc" },
+      { "option": "C", "text": "Các lực lượng tiến bộ, những người yêu chuộng hòa bình, dân chủ, tự do và công lý" },
+      { "option": "D", "text": "Phong trào cộng sản và công nhân quốc tế" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Lựa chọn quan điểm đúng nhất của Hồ Chí Minh về nguyên tắc đoàn kết quốc tế?",
+    "answers": [
+      { "option": "A", "text": "Đoàn kết trên cơ sở độc lập, tự chủ" },
+      { "option": "B", "text": "Đoàn kết trên cơ sở lợi ích" },
+      { "option": "C", "text": "Đoàn kết trên cở đấu tranh" },
+      { "option": "D", "text": "Đoàn kết trên cơ sở bảo vệ lẫn nhau" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Hồ Chí Minh đã đưa ra quan niệm về văn hóa trong thời gian nào?",
+    "answers": [
+      { "option": "A", "text": "1943" },
+      { "option": "B", "text": "1953" },
+      { "option": "C", "text": "1960" },
+      { "option": "D", "text": "1965" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo quan điểm của Hồ Chí Minh, văn hóa có mối quan hệ như thế nào với chính trị?",
+    "answers": [
+      { "option": "A", "text": "Văn hóa ở trong chính trị" },
+      { "option": "B", "text": "Văn hóa phục vụ nhiệm vụ chính trị" },
+      { "option": "C", "text": "Văn hóa không có quan hệ với chính trị" },
+      { "option": "D", "text": "Cả 3 đáp án đều sai" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo quan điểm của Hồ Chí Minh, văn hóa có mối quan hệ như thế nào với kinh tế?",
+    "answers": [
+      { "option": "A", "text": "Văn hóa tác động tích cực trở lại kinh tế" },
+      { "option": "B", "text": "Văn hóa ở ngoài kinh tế" },
+      { "option": "C", "text": "Văn hóa hoàn toàn phụ thuộc vào sự phát triển của kinh tế" },
+      { "option": "D", "text": "Văn hóa phát triển sau kinh tế" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo quan điểm của Hồ Chí Minh, văn hóa có mối quan hệ như thế nào với xã hội?",
+    "answers": [
+      { "option": "A", "text": "Xã hội thế nào thì văn hóa thế ấy" },
+      { "option": "B", "text": "Xã hội phát triển trước văn hóa" },
+      { "option": "C", "text": "Văn hóa phát triển trước xã hội" },
+      { "option": "D", "text": "Văn hóa phát triển chậm hơn xã hội" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nội dung của bản sắc văn hóa dân tộc được biểu hiện qua những yếu tố nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "(1) Lòng yêu nước (2) Tinh thần độc lập, tự cường, tự tôn dân tộc" },
+      { "option": "B", "text": "(1) Lòng yêu nước (2) Ngôn ngữ, phong tục, tập quán" },
+      { "option": "C", "text": "(1) Ngôn ngữ, phong tục, tập quán (2) Lễ hội truyền thống" },
+      { "option": "D", "text": "(1) Lòng yêu nước (2) Tư duy, lối sống" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Hình thức của bản sắc văn hóa dân tộc được biểu hiện qua những yếu tố nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "(1) Ngôn ngữ, phong tục, tập quán (2) Lễ hội truyền thống" },
+      { "option": "B", "text": "(1) Lòng yêu nước (2) Ngôn ngữ, phong tục, tập quán" },
+      { "option": "C", "text": "(1) Lòng yêu nước (2) Tinh thần độc lập, tự cường, tự tôn dân tộc" },
+      { "option": "D", "text": "(1) Lòng yêu nước (2) Tư duy, lối sống" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, nội dung nào sau đây không thể hiện vai trò của văn hóa?",
+    "answers": [
+      { "option": "A", "text": "Văn hóa là mục tiêu, động lực của sự nghiệp cách mạng" },
+      { "option": "B", "text": "Văn hóa là một mặt trận" },
+      { "option": "C", "text": "Văn hóa phục vụ quần chúng nhân dân" },
+      { "option": "D", "text": "Văn hóa là sự nghiệp của quần chúng nhân dân" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu không phải là nội dung trong tư tưởng Hồ Chí Minh về những chuẩn mực đạo đức cách mạng?",
+    "answers": [
+      { "option": "A", "text": "Sống hài hòa, đảm bảo lợi ích của nhân dân" },
+      { "option": "B", "text": "Cần, kiệm, liêm chính, chí công vô tư" },
+      { "option": "C", "text": "Trung với nước, hiếu với dân" },
+      { "option": "D", "text": "Có tinh thần quốc tế trong sáng" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là nội dung trong tư tưởng Hồ Chí Minh về những nguyên tắc xây dựng đạo đức cách mạng?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Xây đi đôi với chống" },
+      { "option": "C", "text": "Tu dưỡng đạo đức suốt đời" },
+      { "option": "D", "text": "Nói đi đôi với làm, nêu gương đạo đức" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là luận điểm đúng nhất với tư tưởng Hồ Chí Minh về vai trò của con người?",
+    "answers": [
+      { "option": "A", "text": "Con người là động lực của cách mạng" },
+      { "option": "B", "text": "Con người là người tiêu thụ" },
+      { "option": "C", "text": "Con người là tổng hòa các quan hệ xã hội" },
+      { "option": "D", "text": "Con người là sản phẩm của lịch sử" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Hồ Chí Minh đã đưa ra quan niệm về văn hóa trong thời gian nào?",
+    "answers": [
+      { "option": "A", "text": "1943" },
+      { "option": "B", "text": "1953" },
+      { "option": "C", "text": "1960" },
+      { "option": "D", "text": "1965" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo quan điểm của Hồ Chí Minh, văn hóa có mối quan hệ như thế nào với chính trị?",
+    "answers": [
+      { "option": "A", "text": "Văn hóa ở trong chính trị" },
+      { "option": "B", "text": "Văn hóa phục vụ nhiệm vụ chính trị" },
+      { "option": "C", "text": "Văn hóa không có quan hệ với chính trị" },
+      { "option": "D", "text": "Cả 3 đáp án đều sai" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo quan điểm của Hồ Chí Minh, văn hóa có mối quan hệ như thế nào với kinh tế?",
+    "answers": [
+      { "option": "A", "text": "Văn hóa tác động tích cực trở lại kinh tế" },
+      { "option": "B", "text": "Văn hóa ở ngoài kinh tế" },
+      { "option": "C", "text": "Văn hóa hoàn toàn phụ thuộc vào sự phát triển của kinh tế" },
+      { "option": "D", "text": "Văn hóa phát triển sau kinh tế" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo quan điểm của Hồ Chí Minh, văn hóa có mối quan hệ như thế nào với xã hội?",
+    "answers": [
+      { "option": "A", "text": "Xã hội thế nào thì văn hóa thế ấy" },
+      { "option": "B", "text": "Xã hội phát triển trước văn hóa" },
+      { "option": "C", "text": "Văn hóa phát triển trước xã hội" },
+      { "option": "D", "text": "Văn hóa phát triển chậm hơn xã hội" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Nội dung của bản sắc văn hóa dân tộc được biểu hiện qua những yếu tố nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "(1) Lòng yêu nước (2) Tinh thần độc lập, tự cường, tự tôn dân tộc" },
+      { "option": "B", "text": "(1) Lòng yêu nước (2) Ngôn ngữ, phong tục, tập quán" },
+      { "option": "C", "text": "(1) Ngôn ngữ, phong tục, tập quán (2) Lễ hội truyền thống" },
+      { "option": "D", "text": "(1) Lòng yêu nước (2) Tư duy, lối sống" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Hình thức của bản sắc văn hóa dân tộc được biểu hiện qua những yếu tố nào sau đây?",
+    "answers": [
+      { "option": "A", "text": "(1) Ngôn ngữ, phong tục, tập quán (2) Lễ hội truyền thống" },
+      { "option": "B", "text": "(1) Lòng yêu nước (2) Ngôn ngữ, phong tục, tập quán" },
+      { "option": "C", "text": "(1) Lòng yêu nước (2) Tinh thần độc lập, tự cường, tự tôn dân tộc" },
+      { "option": "D", "text": "(1) Lòng yêu nước (2) Tư duy, lối sống" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, nội dung nào sau đây không thể hiện vai trò của văn hóa?",
+    "answers": [
+      { "option": "A", "text": "Văn hóa là mục tiêu, động lực của sự nghiệp cách mạng" },
+      { "option": "B", "text": "Văn hóa là một mặt trận" },
+      { "option": "C", "text": "Văn hóa phục vụ quần chúng nhân dân" },
+      { "option": "D", "text": "Văn hóa là sự nghiệp của quần chúng nhân dân" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu không phải là nội dung trong tư tưởng Hồ Chí Minh về những chuẩn mực đạo đức cách mạng?",
+    "answers": [
+      { "option": "A", "text": "Sống hài hòa, đảm bảo lợi ích của nhân dân" },
+      { "option": "B", "text": "Cần, kiệm, liêm chính, chí công vô tư" },
+      { "option": "C", "text": "Trung với nước, hiếu với dân" },
+      { "option": "D", "text": "Có tinh thần quốc tế trong sáng" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là nội dung trong tư tưởng Hồ Chí Minh về những nguyên tắc xây dựng đạo đức cách mạng?",
+    "answers": [
+      { "option": "A", "text": "Cả 3 đáp án" },
+      { "option": "B", "text": "Xây đi đôi với chống" },
+      { "option": "C", "text": "Tu dưỡng đạo đức suốt đời" },
+      { "option": "D", "text": "Nói đi đôi với làm, nêu gương đạo đức" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là luận điểm đúng nhất với tư tưởng Hồ Chí Minh về vai trò của con người?",
+    "answers": [
+      { "option": "A", "text": "Con người là động lực của cách mạng" },
+      { "option": "B", "text": "Con người là người tiêu thụ" },
+      { "option": "C", "text": "Con người là tổng hòa các quan hệ xã hội" },
+      { "option": "D", "text": "Con người là sản phẩm của lịch sử" }
+    ],
+    "correct": "A"
   }
 ]
